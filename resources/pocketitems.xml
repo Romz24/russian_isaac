@@ -1,0 +1,142 @@
+<pocketitems>
+	<card id="0" name="NULL" />
+	<card type="tarot" pickup="1" description="Где началось приключение" id="1" name="0 - Дурак" announcer="375" announcerdelay="60" mimiccharge="2" />
+	<card type="tarot" pickup="1" description="Да не промахнешься ты впредь" id="2" name="I - Маг" announcer="381" mimiccharge="2" />
+	<card type="tarot" pickup="1" description="Мать наблюдает за Вами" id="3" name="II - Верховная Жрица" announcer="379" announcerdelay="110" mimiccharge="2" />
+	<card type="tarot" pickup="1" description="Пусть Ваш гнев призовёт силу" id="4" name="III - Императрица" announcer="374" announcerdelay="70" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="Испытай меня!" id="5" name="IV - Император" greedmode="false" announcer="373" announcerdelay="70" mimiccharge="4" />
+	<card type="tarot" pickup="1" description="Помолись о двух заблудших душах" id="6" name="V - Иерофант" announcer="378" announcerdelay="70" mimiccharge="12" />
+	<card type="tarot" pickup="1" description="Процветай и живи в здравии" id="7" name="VI - Влюблённые" announcer="380" announcerdelay="70" mimiccharge="6" />
+	<card type="tarot" pickup="1" description="Пусть пред Вами ничто не устоит" id="8" name="VII - Колесница" announcer="371" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="Пусть Ваше будущее обретет баланс" id="9" name="VIII - Правосудие" announcer="349" mimiccharge="12" />
+	<card type="tarot" pickup="1" description="Да узри же подарок судьбы" id="10" name="IX - Отшельник" greedmode="false" announcer="377" announcerdelay="60" mimiccharge="2" />
+	<card type="tarot" pickup="1" description="Вращай колесо судьбы" id="11" name="X - Колесо Фортуны" announcer="391" announcerdelay="60" mimiccharge="6" />
+	<card type="tarot" pickup="1" description="Пусть Ваша сила призовёт гнев" id="12" name="XI - Сила" announcer="365" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="Да найдёшь ты просветление " id="13" name="XII - Повешенный" announcer="376" mimiccharge="4" />
+	<card type="tarot" pickup="1" description="Упраздни непокорных " id="14" name="XIII - Смерть" announcer="337" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="Да будешь ты чист сердцем" id="15" name="XIV - Умеренность" announcer="370" announcerdelay="60" mimiccharge="6" />
+	<card type="tarot" pickup="1" description="Упивайся силами тьмы" id="16" name="XV - Дьявол" announcer="372" announcerdelay="40" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="За разрушением следует воссоздание" id="17" name="XVI - Башня" announcer="385" announcerdelay="20" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="Да найдёшь ты желанное " id="18" name="XVII - Звёзды" greedmode="false" announcer="383" announcerdelay="60" mimiccharge="2" />
+	<card type="tarot" pickup="1" description="Да найдёшь ты сокрытое" id="19" name="XVIII - Луна" greedmode="false" announcer="382" announcerdelay="60" mimiccharge="2" />
+	<card type="tarot" pickup="1" description="Пусть свет исцелит и просветит тебя" id="20" name="XIX - Солнце" announcer="384" announcerdelay="10" mimiccharge="12" />
+	<card type="tarot" pickup="1" description="Не суди и несудим будешь" id="21" name="XX - Cуд" announcer="348" mimiccharge="6" />
+	<card type="tarot" pickup="1" description="Открой же глаза и узри" id="22" name="XXI - Мир" announcer="386" mimiccharge="3" />
+	<card type="suit" pickup="2" description="Множитель" id="23" name="Двойка треф" announcer="387" mimiccharge="12" />
+	<card type="suit" pickup="2" description="Множитель" id="24" name="Двойка бубен" announcer="388" mimiccharge="12" />
+	<card type="suit" pickup="2" description="Множитель" id="25" name="Двойка пик" announcer="390" mimiccharge="12" />
+	<card type="suit" pickup="2" description="Множитель" id="26" name="Двойка Червей" announcer="389" mimiccharge="12" />
+	<card type="suit" pickup="2" achievement="322" description="Преобразуй" id="27" name="Туз треф" announcer="456" announcerdelay="90" mimiccharge="6" />
+	<card type="suit" pickup="2" achievement="326" description="Преобразуй" id="28" name="Туз бубен" announcer="455" announcerdelay="90" mimiccharge="6" />
+	<card type="suit" pickup="2" achievement="327" description="Преобразуй" id="29" name="Туз пик" announcer="447" announcerdelay="90" mimiccharge="6" />
+	<card type="suit" pickup="2" achievement="329" description="Преобразуй" id="30" name="Туз червей" announcer="450" announcerdelay="90" mimiccharge="6" />
+	<card type="suit" pickup="2" description="???" id="31" name="Джокер" greedmode="false" announcer="347" announcerdelay="60" mimiccharge="2" />
+	<rune type="rune" pickup="3" achievement="89" description="Разруха" id="32" name="Град" announcer="341" mimiccharge="2" />
+	<rune type="rune" pickup="3" achievement="90" description="Изобилие" id="33" name="Год, урожай" announcer="346" mimiccharge="12" />
+	<rune type="rune" pickup="3" achievement="91" description="Скачок" id="34" name="Лошадь" announcer="338" mimiccharge="4" />
+	<rune type="rune" pickup="3" achievement="92" description="Чистота" id="35" name="День" announcer="336" mimiccharge="6" />
+	<rune type="rune" pickup="4" achievement="93" description="Видение" id="36" name="Бог" announcer="327" mimiccharge="2" />
+	<rune type="rune" pickup="4" achievement="94" description="Замена" id="37" name="Судьба" announcer="354" mimiccharge="4" />
+	<rune type="rune" pickup="4" achievement="95" description="Товарищество" id="38" name="Берёза" announcer="331" mimiccharge="2" />
+	<rune type="rune" pickup="4" achievement="96" description="Сопротивление" id="39" name="Лось" announcer="325" mimiccharge="3" />
+	<rune type="rune" pickup="4" achievement="233" description="???" id="40" name="Пустая руна" mimiccharge="3" />
+	<rune type="rune" pickup="7" achievement="309" description="Пустота" id="41" name="Чёрная руна" announcer="457" announcerdelay="150" mimiccharge="4" />
+	<card type="special" pickup="8" achievement="97" description="???" id="42" name="Карта хаоса" announcer="334" mimiccharge="6" />
+	<card type="special" pickup="10" achievement="98" description="Моё!" id="43" name="Кредитная карта" announcer="335" mimiccharge="6" />
+	<card type="special" pickup="2" achievement="99" description="???" id="44" name="Карта правил" announcer="361" announcerdelay="30" mimiccharge="1" />
+	<card type="special" pickup="9" achievement="100" description="Чем-то пахнет..." id="45" name="Карта против человечества" announcer="333" announcerdelay="60" mimiccharge="6" />
+	<card type="special" pickup="2" achievement="120" description="Истинный конец?" id="46" name="Король-Самоубийцы" announcer="366" announcerdelay="110" mimiccharge="1" />
+	<card type="special" pickup="12" achievement="225" description="Сезам, откройся" id="47" name="Карта свободного выхода из тюрьмы" announcer="404" announcerdelay="30" mimiccharge="2" />
+	<card type="special" pickup="2" description="Двойное Действие" id="48" name="? карта" announcer="408" announcerdelay="15" mimiccharge="1" />
+	<card type="object" pickup="6" description="D6 + D20" id="49" name="Осколок кости" announcer="400" announcerdelay="3" mimiccharge="4" />
+	<card type="object" pickup="5" description="Спасение с небес" id="50" name="Экстренный контакт" announcer="401" announcerdelay="70" mimiccharge="3" />
+	<card type="special" pickup="11" achievement="293" description="Вы чувствуйте защиту" id="51" name="Святая карта" announcer="449" mimiccharge="2" />
+	<!-- Booster Pack #1 -->
+	<card type="special" pickup="8" achievement="361" description="Стань гигантом!" name="Могучий рост" id="52" mimiccharge="3" />
+	<card type="special" pickup="8" achievement="362" description="Призыв 3 карт" name="Древний призыв" id="53" mimiccharge="12" />
+	<card type="special" pickup="8" achievement="363" description="Насладись моментом" name="Прогулка по эпохе" id="54" mimiccharge="3" />
+	<rune type="rune" pickup="13" description="Он все еще слабо светится" id="55" name="Осколок руны" mimiccharge="1" />
+	<!-- Reverse tarot cards -->
+	<card type="tarot_reverse" pickup="14" achievement="524" announcer="512" announcerdelay="60" description="Let go and move on" id="56" name="0 - Дурак?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="525" announcer="513" announcerdelay="0" description="May no harm come to you" id="57" name="I - Маг?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="526" announcer="514" announcerdelay="110" description="Run" id="58" name="II - Верховная жрица?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="527" announcer="515" announcerdelay="70" description="May your love bring protection" id="59" name="III - Императрица?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="528" announcer="516" announcerdelay="30" description="May you find a worthy opponent" id="60" name="IV - Император?" mimiccharge="2" />
+	<card type="tarot_reverse" pickup="14" achievement="529" announcer="517" announcerdelay="70" description="Two prayers for the forgotten" id="61" name="V - Иерофант?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="530" announcer="518" announcerdelay="60" description="May your heart break into pieces" id="62" name="VI - Влюблённые?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="531" announcer="519" announcerdelay="0" description="May nothing walk past you" id="63" name="VII - Колесница?" mimiccharge="2" />
+	<card type="tarot_reverse" pickup="14" achievement="532" announcer="520" announcerdelay="0" description="May your sins come back to torment you" id="64" name="VIII - Правосудие?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="533" announcer="521" announcerdelay="60" description="May you waste nothing" id="65" name="IX - Отшельник?" mimiccharge="1" />
+	<card type="tarot_reverse" pickup="14" achievement="534" announcer="522" announcerdelay="60" description="Throw the dice of fate" id="66" name="X - Колесо фортуны?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="535" announcer="523" announcerdelay="0" description="May their rage be tamed" id="67" name="XI - Сила?" mimiccharge="3" />
+	<card type="tarot_reverse" pickup="14" achievement="536" announcer="524" announcerdelay="0" description="May your greed know no bounds" id="68" name="XII - Повешенный?" mimiccharge="6" />
+	<card type="tarot_reverse" pickup="14" achievement="537" announcer="525" announcerdelay="0" description="May life spring forth from the fallen" id="69" name="XIII - Смерть?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="538" announcer="526" announcerdelay="120" description="May your hunger be satiated" id="70" name="XIV - Умеренность?" mimiccharge="6" />
+	<card type="tarot_reverse" pickup="14" achievement="539" announcer="527" announcerdelay="70" description="Bask in the light of your mercy" id="71" name="XV - Дьявол?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="540" announcer="528" announcerdelay="110" description="Creation brings destruction" id="72" name="XVI - Башня?" mimiccharge="3" />
+	<card type="tarot_reverse" pickup="14" achievement="541" announcer="529" announcerdelay="0" description="May your loss bring fortune" id="73" name="XVII - Звёзды?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="542" announcer="530" announcerdelay="0" description="May you remember lost memories" id="74" name="XVIII - Луна?" mimiccharge="2" />
+	<card type="tarot_reverse" pickup="14" achievement="542" announcer="531" announcerdelay="0" description="May the darkness swallow all around you" id="75" name="XIX - Солнце?" mimiccharge="6" />
+	<card type="tarot_reverse" pickup="14" achievement="543" announcer="532" announcerdelay="30" description="May you redeem those found wanting" id="76" name="XX - Cуд?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="544" announcer="533" announcerdelay="30" description="Step into the abyss" id="77" name="XXI - Мир?" mimiccharge="2" />
+	
+	<card type="object" pickup="15" achievement="444" description="???" name="Треснувший ключ" id="78" mimiccharge="4" />
+	
+	<!--
+	Pill classes:
+		3: Major (a permanent effect, usually a stat modifier)
+		2: Medium (an effect with a significant impact, i.e. health or damage)
+		1: Minor (an effect which is only situationally useful)
+		0: Joke (an effect which is nigh useless)
+		
+	Append a + or - at the end to denote a positive or negative effect, no suffix means a neutral effect
+	-->
+	
+	<pilleffect id="0" name="Вонючий газ" announcer="328" class="1+" mimiccharge="1" />
+	<pilleffect id="1" name="Плохой приход" announcer="329" announcerdelay="60" class="2-" mimiccharge="1" />
+	<pilleffect id="2" name="Стальные яйца" announcer="330" announcerdelay="70" class="2+" mimiccharge="12" />
+	<pilleffect id="3" name="Бомбы = ключи" announcer="332" announcerdelay="70" class="2" mimiccharge="1" />
+	<pilleffect id="4" name="Взрывная диарея" announcer="339" announcerdelay="30" class="1" mimiccharge="3" />
+	<pilleffect id="5" name="Полное здоровье" announcer="340" announcerdelay="70" class="2+" mimiccharge="12" />
+	<pilleffect id="6" name="Здоровье -" announcer="342" announcerdelay="55" class="3-" mimiccharge="4" />
+	<pilleffect id="7" name="Здоровье +" announcer="343" announcerdelay="70" class="3+" mimiccharge="12" />
+	<pilleffect id="8" name="Я нашел пилюли" description="...и съел их" announcer="345" announcerdelay="50" class="0" mimiccharge="1" />
+	<pilleffect id="9" name="Зрелость" announcer="357" announcerdelay="60" class="0" mimiccharge="1" />
+	<pilleffect id="10" name="Милая мушка" announcer="356" announcerdelay="45" class="2+" mimiccharge="12" />
+	<pilleffect id="11" name="Дальность -" announcer="359" announcerdelay="60" class="3-" mimiccharge="4" />
+	<pilleffect id="12" name="Дальность +" announcer="360" announcerdelay="70" class="3+" mimiccharge="12" />
+	<pilleffect id="13" name="Скорость -" announcer="363" announcerdelay="60" class="3-" mimiccharge="4" />
+	<pilleffect id="14" name="Скорость +" announcer="364" announcerdelay="70" class="3+" mimiccharge="12" />
+	<pilleffect id="15" name="Скорострельность -" announcer="367" announcerdelay="60" class="3-" mimiccharge="4" />
+	<pilleffect id="16" name="Скорострельность +" announcer="368" announcerdelay="70" class="3+" mimiccharge="12" />
+	<pilleffect id="17" name="Удача -" announcer="351" announcerdelay="60" class="3-" mimiccharge="4" />
+	<pilleffect id="18" name="Удача +" announcer="352" announcerdelay="70" class="3+" mimiccharge="12" />
+	<pilleffect id="19" name="Телепилюли" greedmode="false" announcer="369" announcerdelay="60" class="1" mimiccharge="1" />
+	<pilleffect id="20" name="Энергия на 48 часов" announcer="324" announcerdelay="50" class="2+" mimiccharge="12" />
+	<pilleffect id="21" name="Кровавая рвота" announcer="344" class="2" mimiccharge="6" />
+	<pilleffect id="22" name="Паралич" announcer="353" class="1-" mimiccharge="3" />
+	<pilleffect id="23" name="Я могу видеть вечно" announcer="362" announcerdelay="60" class="2+" mimiccharge="4" />
+	<pilleffect id="24" name="Феромоны" announcer="355" announcerdelay="40" class="1+" mimiccharge="2" />
+	<pilleffect id="25" name="Амнезия" announcer="326" announcerdelay="70" class="2-" mimiccharge="3" />
+	<pilleffect id="26" name="Лимонная вечеринка" announcer="350" class="1+" mimiccharge="3" />
+	<pilleffect id="27" name="Ты волшебник?" announcer="358" announcerdelay="60" class="1-" mimiccharge="3" />
+	<pilleffect achievement="227" id="28" name="Обезболивающее" announcer="406" announcerdelay="45" class="1+" mimiccharge="2" />
+	<pilleffect achievement="227" id="29" name="Зависимый" announcer="399" announcerdelay="40" class="1-" mimiccharge="2" />
+	<pilleffect achievement="228" id="30" name="Расслабься" announcer="409" announcerdelay="80" class="0" mimiccharge="2" />
+	<pilleffect achievement="228" id="31" name="???" announcer="412" announcerdelay="60" class="1-" mimiccharge="2" />
+	<pilleffect id="32" name="Одна сделает тебя крупнее" announcer="405" announcerdelay="1" class="1" mimiccharge="12" />
+	<pilleffect id="33" name="Одна сделает тебя меньше" announcer="411" announcerdelay="1" class="1" mimiccharge="12" />
+	<pilleffect id="34" name="Зараженный!" announcer="402" announcerdelay="30" class="1+" mimiccharge="2" />
+	<pilleffect id="35" name="Зараженный?" announcer="403" announcerdelay="5" class="1+" mimiccharge="2" />
+	<pilleffect id="36" name="Мощная пилюля" announcer="407" announcerdelay="5" class="1+" mimiccharge="3" />
+	<pilleffect id="37" name="Ретро видение" announcer="410" announcerdelay="30" class="1-" mimiccharge="3" />
+	<pilleffect id="38" name="Друзья до конца" announcer="452" announcerdelay="30" class="1+" mimiccharge="1" />
+	<pilleffect id="39" name="Вялый" announcer="443" announcerdelay="30" class="0-" mimiccharge="1" />
+	<pilleffect id="40" name="Что-то не так..." announcer="444" announcerdelay="30" class="0+" mimiccharge="1" />
+	<pilleffect id="41" name="Я сонный.." announcer="454" announcerdelay="30" class="1" mimiccharge="3" />
+	<pilleffect id="42" name="Я взволнован!!!" announcer="453" announcerdelay="30" class="1" mimiccharge="3" />
+	<pilleffect achievement="321" id="43" name="Глотай!" announcer="451" announcerdelay="30" class="2+" mimiccharge="4" />
+	<pilleffect achievement="325" id="44" name="Хорф!" announcer="448" announcerdelay="70" class="0" mimiccharge="1" />
+	<pilleffect achievement="324" id="45" name="Как будто я гуляю под солнечными лучами!" announcer="446" announcerdelay="30" class="1+" mimiccharge="1" />
+	<pilleffect achievement="330" id="46" name="Вжух!" announcer="445" announcerdelay="60" class="2+" mimiccharge="6" />
+</pocketitems>

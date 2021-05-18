@@ -1,0 +1,20 @@
+<minibosses>
+	<miniboss id="0" name="Лень" />
+	<miniboss id="1" name="Похоть" />
+	<miniboss id="2" name="Гнев" />
+	<miniboss id="3" name="Чревоугодие" />
+	<miniboss id="4" name="Алчность" />
+	<miniboss id="5" name="Зависть" />
+	<miniboss id="6" name="Гордыня" />
+	
+	<miniboss id="7" name="Супер Лень" />
+	<miniboss id="8" name="Супер Похоть" />
+	<miniboss id="9" name="Супер Гнев" />
+	<miniboss id="10" name="Супер Чревоугодие" />
+	<miniboss id="11" name="Супер Алчность" />
+	<miniboss id="12" name="Супер Зависть" />
+	<miniboss id="13" name="Супер Гордыня" />
+	
+	<miniboss id="14" name="Ультра Гордыня" />
+	<miniboss id="15" name="Крампус" />
+</minibosses>
