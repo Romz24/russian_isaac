@@ -1,0 +1,120 @@
+<!-- Protip: Go to the easter eggs menu and press Q+E+Tab or LB+RB+X 
+     if you want to remove an unlocked easter egg from the menu. 
+     Retype the code in the seed entry to get it back. -->
+
+<entryDialog unlock="Найдена пасхалка!" enable="Пасхалка доступна"/>
+
+<seedmenu>
+	<confirm name="Confirm ({numseeds} enabled)"/>
+	<reset name="Отключить всё"/>
+	<spacer />
+	
+	<seed id="16" name="Бесконечный подвал"/>
+	<seed id="11" name="Хитрые пикапы"/>
+	<seed id="72" name="Временные пикапы"/>
+	<seed id="33" name="F2P версия"/>
+	<seed id="25" name="Пацифизм"/>
+	<seed id="32" name="Возрождающиеся враги"/>
+	<seed id="71" name="Точка не возврата"/>
+	<seed id="24" name="Говняный след"/>
+	<seed id="73" name="Гоб мод"/>
+	<seed id="55" name="Мод на дете` из coop'а"/>
+	<spacer />
+	
+	<seed id="56" name="Кромешная Тьма"/>
+	<seed id="57" name="Непроходимый Лабиринт"/>
+	<seed id="58" name="Безнадёжно Потерянный"/>
+	<seed id="59" name="Навсегда Неизвестный"/>
+	<seed id="60" name="Бесконечная Путаница"/>
+	<seed id="61" name="Неизлечимая Слепота"/>
+	<seed id="62" name="Ужасное Проклятие"/>
+	<spacer />
+	
+	<seed id="63" name="Освещённая Тьма"/>
+	<seed id="64" name="Проходимый Лабиринт"/>
+	<seed id="65" name="Я когда-то Потерялся"/>
+	<seed id="66" name="Знай Неизвестное"/>
+	<seed id="67" name="Хватит всё Путать"/>
+	<seed id="68" name="Вылечи Слепоту"/>
+	<seed id="70" name="Иммунитет к Проклятиям"/>
+	<spacer />
+	
+	<seed id="47" name="Урон в полное сердце"/>
+	<seed id="48" name="Урон в двенадцать сердец"/>
+	<seed id="26" name="Не останавливайся"/>
+	<seed id="27" name="Урон по таймеру"/>
+	<seed id="28" name="Лимит в 30 минут"/>
+	<spacer />
+	
+	<seed id="52" name="Физика льда" />
+	<seed id="74" name="Храбрость"/>
+	<seed id="75" name="Трусость"/>
+	<seed id="12" name="Обратное управление"/>
+	<seed id="76" name="Выравнивание по оси"/>
+	<spacer />
+	
+	<seed id="3" name="Камуфляжный игрок"/>
+	<seed id="4" name="Камуфляжные враги"/>
+	<seed id="5" name="Камуфляжные предметы"/>
+	<seed id="6" name="Камуфляжное ВСЁ!"/>
+	<seed id="14" name="Невидимый ирок"/>
+	<seed id="15" name="Невидимые враги"/>
+	<spacer />
+	
+	<seed id="46" name="Пустой"/>
+	<seed id="53" name="Серый"/>
+	<seed id="54" name="Новогодний"/>
+	<seed id="35" name="Мод на большую голову"/>
+	<seed id="36" name="Мод на маленькую голову"/>
+	<seed id="37" name="Чёрное тело"/>
+	<spacer />
+	
+	<seed id="38" name="Светящиеся слёзы"/>
+	<seed id="23" name="Море крови"/>
+	<spacer />
+
+	<seed id="8" name="Катодные лучи!"/>
+	<seed id="9" name="Дислексия"/>
+	<seed id="10" name="Без HUD'а"/>
+	<seed id="29" name="Мистические пилюли"/>
+	<seed id="30" name="Мистические карты"/>
+	<spacer />
+
+	<seed id="13" name="Враги чемпионы"/>
+	<seed id="17" name="Очарованные враги"/>
+	<seed id="18" name="Оглушённые враги"/>
+	<seed id="19" name="Испуганные враги"/>
+	<seed id="20" name="Пугливые враги"/>
+	<seed id="21" name="Недружелюбные враги"/>
+	<spacer />
+	
+	<seed id="7" name="Звуки пердежа"/>
+	<spacer />
+
+	<seed id="1" name="Темп движения"/>
+	<seed id="2" name="Темп здоровья"/>
+	<seed id="41" name="Сниженный темп"/>
+	<seed id="42" name="Очень сниженный темп"/>
+	<seed id="43" name="Повышенный темп"/>
+	<seed id="44" name="Очень повышенный темп"/>
+	
+	<spacer />
+	
+	<seed id="77" name="Очень горячий"/>
+	<seed id="78" name="Ретро видение"/>
+	
+	<!-- Changing the "implemented" flag won't make these seeds 
+	do anything, by the way. They don't have codes to unlock 
+	them or any game logic. They are just here for technical 
+	reasons. Just thought I'd save you some time. -->
+	<seed id="22" name="NOT IMPLEMENTED" implemented="0"/>
+	<seed id="31" name="NOT IMPLEMENTED" implemented="0"/>
+	<seed id="34" name="NOT IMPLEMENTED" implemented="0"/>
+	<seed id="39" name="NOT IMPLEMENTED" implemented="0"/>
+	<seed id="40" name="NOT IMPLEMENTED" implemented="0"/>
+	<seed id="45" name="NOT IMPLEMENTED" implemented="0"/>
+	<seed id="49" name="NOT IMPLEMENTED" implemented="0"/>
+	<seed id="50" name="NOT IMPLEMENTED" implemented="0"/>
+	<seed id="51" name="NOT IMPLEMENTED" implemented="0"/>
+	<seed id="69" name="NOT IMPLEMENTED" implemented="0"/>
+</seedmenu>
