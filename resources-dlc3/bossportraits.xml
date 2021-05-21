@@ -1,0 +1,114 @@
+<bosses root="gfx/ui/boss/" anm2="versusscreen.anm2">
+	<boss id="1" name="Монстро" nameimage="BossName_20.0_Monstro.png" portrait="Portrait_20.0_Monstro.png" pivotX="96" pivotY="132" />
+	<boss id="2" name="Ларри Младший" nameimage="BossName_19.0_LarryJr.png" portrait="Portrait_19.0_LarryJr.png" pivotX="96" pivotY="140" />
+	<boss id="3" name="Чаб" nameimage="BossName_28.0_Chub.png" portrait="Portrait_28.0_Chub.png" pivotX="88" pivotY="160" />
+	<boss id="4" name="Гёрди" nameimage="BossName_36.0_Gurdy.png" portrait="Portrait_36.0_Gurdy.png" pivotX="88" pivotY="166" />
+	<boss id="5" name="Монстро II" nameimage="BossName_43.0_Monstro2.png" portrait="Portrait_43.0_Monstro2.png" pivotX="90" pivotY="132" />
+	<boss id="6" name="Мама" nameimage="BossName_45.0_Mom.png" portrait="Portrait_45.0_Mom.png" pivotX="82" pivotY="172" />
+	<boss id="7" name="Сколекс" nameimage="BossName_62.1_Scolex.png" portrait="Portrait_62.1_Scolex.png" pivotX="92" pivotY="144" />
+	<boss id="8" name="Сердце Мамы" nameimage="BossName_78.0_MomsHeart.png" portrait="Portrait_78.0_MomsHeart.png" pivotX="88" pivotY="172" />
+	<boss id="9" name="Голод" nameimage="BossName_63.0_Famine.png" portrait="Portrait_63.0_Famine.png" pivotX="96" pivotY="152" achievement="5" />
+	<boss id="10" name="Чума" nameimage="BossName_64.0_Pestilence.png" portrait="Portrait_64.0_Pestilence.png" pivotX="88" pivotY="152" achievement="5" />
+	<boss id="11" name="Война" nameimage="BossName_65.0_War.png" portrait="Portrait_65.0_War.png" pivotX="100" pivotY="152" achievement="5" />
+	<boss id="12" name="Смерть" nameimage="BossName_66.0_Death.png" portrait="Portrait_66.0_Death.png" pivotX="100" pivotY="152" achievement="5" />
+	<boss id="13" name="Герцог Мух" nameimage="BossName_67.0_DukeOfFlies.png" portrait="Portrait_67.0_DukeOfFlies.png" pivotX="100" pivotY="164" />
+	<boss id="14" name="Пип" nameimage="BossName_68.0_Peep.png" portrait="Portrait_68.0_Peep.png" pivotX="96" pivotY="156" />
+	<boss id="15" name="Локи" nameimage="BossName_69.0_Loki.png" portrait="Portrait_69.0_Loki.png" pivotX="92" pivotY="144" />
+	<boss id="16" name="Бластоцист" nameimage="BossName_74.0_Blastocyst.png" portrait="Portrait_74.0_Blastocyst.png" pivotX="92" pivotY="156" />
+	<boss id="17" name="Близнецы" nameimage="BossName_79.0_Gemini.png" portrait="Portrait_79.0_Gemini.png" pivotX="96" pivotY="160" />
+	<boss id="18" name="Фистула" nameimage="BossName_71.0_Fistula.png" portrait="Portrait_71.0_Fistula.png" pivotX="92" pivotY="132" />
+	<boss id="19" name="Гиш" nameimage="BossName_43.1_Gish.png" portrait="Portrait_43.1_Gish.png" pivotX="86" pivotY="128" achievement="18" />
+	<boss id="20" name="Стивен" nameimage="BossName_79.1_Steven.png" portrait="Portrait_79.1_Steven.png" pivotX="108" pivotY="140" achievement="16" />
+	<boss id="21" name="Ч.А.Д." nameimage="BossName_28.1_CHAD.png" portrait="Portrait_28.1_CHAD.png" pivotX="92" pivotY="148" achievement="17" />
+	<boss id="22" name="Всадник без головы" nameimage="BossName_82.0_HeadlessHorseman.png" portrait="Portrait_82.0_HeadlessHorseman.png" pivotX="96" pivotY="152" achievement="5" />
+	<boss id="23" name="Падший" nameimage="BossName_81.0_TheFallen.png" portrait="Portrait_81.0_TheFallen.png" pivotX="100" pivotY="144" />
+	<boss id="24" name="Сатана" nameimage="BossName_84.0_Satan.png" portrait="Portrait_84.0_Satan.png" pivotX="88" pivotY="144" />
+	<boss id="25" name="Оно Живое!" nameimage="BossName_78.1_ItLives.png" portrait="Portrait_78.1_ItLives.png" pivotX="96" pivotY="160" achievement="34" />
+	<boss id="26" name="Пустой" nameimage="BossName_19.1_TheHollow.png" portrait="Portrait_19.1_TheHollow.png" pivotX="80" pivotY="132" />
+	<boss id="27" name="Королева Падали" nameimage="BossName_28.2_CarrionQueen.png" portrait="Portrait_28.2_CarrionQueen.png" pivotX="88" pivotY="124" />
+	<boss id="28" name="Гёрди Младшая" nameimage="BossName_99.0_GurdyJr.png" portrait="Portrait_99.0_GurdyJr.png" pivotX="84" pivotY="148" />
+	<boss id="29" name="Оболочка" nameimage="BossName_67.1_TheHusk.png" portrait="Portrait_67.1_TheHusk.png" pivotX="96" pivotY="144" />
+	<boss id="30" name="Раздутый" nameimage="BossName_68.1_Bloat.png" portrait="Portrait_68.1_Bloat.png" pivotX="92" pivotY="152" />
+	<boss id="31" name="Локии" nameimage="BossName_69.1_Lokii.png" portrait="Portrait_69.1_Lokii.png" pivotX="92" pivotY="144" />
+	<boss id="32" name="Скверноплод" nameimage="BossName_79.2_BlightedOvum.png" portrait="Portrait_79.2_BlightedOvum.png" pivotX="72" pivotY="156" />
+	<boss id="33" name="Тератома" nameimage="BossName_71.1_Teratoma.png" portrait="Portrait_71.1_Teratoma.png" pivotX="92" pivotY="124" />
+	<boss id="34" name="Вдова" nameimage="BossName_100.0_Widow.png" portrait="Portrait_100.0_Widow.png" pivotX="96" pivotY="128" />
+	<boss id="35" name="Маска Позора" nameimage="BossName_97.0_MaskOfInfamy.png" portrait="Portrait_97.0_MaskOfInfamy.png" pivotX="96" pivotY="132" />
+	<boss id="36" name="Ущемлённая" nameimage="BossName_100.1_TheWretched.png" portrait="Portrait_100.1_TheWretched.png" pivotX="96" pivotY="132" />
+	<boss id="37" name="Пин" nameimage="BossName_62.0_Pin.png" portrait="Portrait_62.0_Pin.png" pivotX="92" pivotY="152" />
+	<boss id="38" name="Завоеватель" nameimage="BossName_65.1_Conquest.png" portrait="Portrait_65.1_Conquest.png" pivotX="100" pivotY="148" achievement="66" />
+	<boss id="39" name="Исаак" nameimage="PlayerName_01_Isaac.png" portrait="Portrait_102.0_Isaac.png" pivotX="88" pivotY="148" />
+	<boss id="40" name="???" nameimage="BossName_102.1_BlueBaby.png" portrait="Portrait_102.1_BlueBaby.png" pivotX="88" pivotY="148" />
+	<boss id="41" name="Папочка Длинные Ноги" nameimage="BossName_101.0_DaddyLongLegs.png" portrait="Portrait_101.0_DaddyLongLegs.png" pivotX="100" pivotY="160" />
+	<boss id="42" name="Триахнид" nameimage="BossName_101.1_Triachnid.png" portrait="Portrait_101.1_Triachnid.png" pivotX="92" pivotY="160" achievement="68" />
+	<boss id="43" name="Преследователь" nameimage="BossName_260.0_TheHaunt.png" portrait="Portrait_260.0_TheHaunt.png" pivotX="88" pivotY="160" />
+	<boss id="44" name="Дингл" nameimage="BossName_261.0_Dingle.png" portrait="Portrait_261.0_Dingle.png" pivotX="88" pivotY="124" />
+	<boss id="45" name="Мега Мо" nameimage="BossName_262.0_MegaMaw.png" portrait="Portrait_262.0_MegaMaw.png" pivotX="96" pivotY="144" />
+	<boss id="46" name="Мега Мо II" nameimage="BossName_263.0_MegaMaw2.png" portrait="Portrait_263.0_MegaMaw2.png" pivotX="96" pivotY="144" />
+	<boss id="47" name="Мега Жирный" nameimage="BossName_264.0_MegaFatty.png" portrait="Portrait_264.0_MegaFatty.png" pivotX="88" pivotY="120" />
+	<boss id="48" name="Мега Жирный II" nameimage="BossName_265.0_Fatty2.png" portrait="Portrait_265.0_Fatty2.png" pivotX="92" pivotY="136" />
+	<boss id="49" name="Мама Гёрди" nameimage="BossName_266.0_MamaGurdy.png" portrait="Portrait_266.0_MamaGurdy.png" pivotX="84" pivotY="172" />
+	<boss id="50" name="Тёмный" nameimage="BossName_267.0_DarkOne.png" portrait="Portrait_267.0_DarkOne.png" pivotX="104" pivotY="160" />
+	<boss id="51" name="Тёмный II" nameimage="BossName_268.0_DarkOne2.png" portrait="Portrait_268.0_DarkOne2.png" pivotX="96" pivotY="160" />
+	<boss id="52" name="Полицефал" nameimage="BossName_269.0_Polycephalus.png" portrait="Portrait_269.0_Polycephalus.png" pivotX="84" pivotY="144" />
+	<boss id="53" name="Мистер Фрэд" nameimage="BossName_270.0_MegaFred.png" portrait="Portrait_270.0_MegaFred.png" pivotX="96" pivotY="140" />
+	<boss id="54" name="Агнец" nameimage="BossName_273.0_TheLamb.png" portrait="Portrait_273.0_TheLamb.png" pivotX="96" pivotY="120" />
+	<boss id="55" name="Мега Сатана" nameimage="BossName_274.0_MegaSatan.png" portrait="Portrait_274.0_MegaSatan.png" pivotX="96" pivotY="172" />
+	<boss id="56" name="Булькающие" nameimage="BossName_276.0_Gurglings.png" portrait="Portrait_276.0_Gurglings.png" pivotX="96" pivotY="144" />
+	
+	<boss id="57" name="Пятно" nameimage="BossName_401.0_TheStain.png" portrait="Portrait_401.0_TheStain.png" pivotX="90" pivotY="152" achievement="346" />
+	<boss id="58" name="Брауни" nameimage="BossName_402.0_Brownie.png" portrait="Portrait_402.0_Brownie.png" pivotX="96" pivotY="150" achievement="346" />
+	<boss id="59" name="Покинутый" nameimage="BossName_403.0_TheForsaken.png" portrait="Portrait_403.0_TheForsaken.png" pivotX="96" pivotY="142" achievement="346" />
+	<boss id="60" name="Маленький рог" nameimage="BossName_404.0_LittleHorn.png" portrait="Portrait_404.0_LittleHorn.png" pivotX="96" pivotY="132" achievement="346" />
+	<boss id="61" name="Тряпичник" nameimage="BossName_405.0_RagMan.png" portrait="Portrait_405.0_Ragman.png" pivotX="96" pivotY="152" achievement="346" />
+	<boss id="62" name="Ультра Алчность" nameimage="BossName_406.0_UltraGreed.png" portrait="Portrait_406.0_UltraGreed.png" pivotX="86" pivotY="152" />
+	<boss id="63" name="Молчание" nameimage="BossName_407.0_Hush.png" portrait="Portrait_407.0_Hush.png" pivotX="96" pivotY="132" />
+	<boss id="64" name="Дангл" nameimage="BossName_Dangle.png" portrait="Portrait_Dangle.png" pivotX="96" pivotY="132" />
+	<boss id="65" name="Говняшки" nameimage="BossName_Turdlings.png" portrait="Portrait_Turdlings.png" pivotX="96" pivotY="144" />
+	<boss id="66" name="Хрупкий" nameimage="BossName_TheFrail.png" portrait="Portrait_TheFrail.png" pivotX="96" pivotY="132" achievement="346" />
+	
+	<boss id="67" name="Мега тряпичник" nameimage="BossName_RagMega.png" portrait="Portrait_RagMega.png" pivotX="86" pivotY="160" achievement="347" />
+	<boss id="68" name="Сёстры Вис" nameimage="BossName_SisterssVis.png" portrait="Portrait_SistersVis.png" pivotX="96" pivotY="132" achievement="347" />
+	<boss id="69" name="Большой рог" nameimage="BossName_BigHorn.png" portrait="Portrait_BigHorn.png" pivotX="96" pivotY="156" achievement="347" />
+	<boss id="70" name="Сумасшествие" nameimage="BossName_Delirium.png" portrait="Portrait_Delirium.png" pivotX="96" pivotY="132" />
+	<boss id="71" name="Ультра Алчностнее" nameimage="BossName_406.0_UltraGreed.png" portrait="Portrait_406.0_UltraGreed.png" pivotX="86" pivotY="152" />
+	<boss id="72" name="Матриарх" nameimage="BossName_Matriarch.png" portrait="Portrait_Matriarch.png" pivotX="86" pivotY="160" achievement="347" />
+	
+<!-- REPENTANCE BEGIN -->
+	<boss id="73" name="Груда" nameimage="BossName_Polycephalus2.png" portrait="Portrait_269.1_Polycephalus2.png" pivotX="84" pivotY="144" />
+	<boss id="74" name="Ползучий жнец" nameimage="BossName_ReapCreep.png" portrait="Portrait_900.0_ReapCreep.png" pivotX="96" pivotY="142" />
+	<boss id="75" name="Маленький пузырь" nameimage="BossName_Beelzeblub.png" portrait="Portrait_901.0_Beelzeblub.png" pivotX="84" pivotY="144">
+		<alt stage="28" portrait="Portrait_901.0_Beelzeblub_Dross.png" />
+	</boss>
+	<boss id="76" name="Горечь" nameimage="BossName_Wormwood.png" portrait="Portrait_902.0_Wormwood.png" pivotX="84" pivotY="144">
+		<alt stage="28" portrait="Portrait_902.0_Wormwood_Dross.png" />
+	</boss>
+	<boss id="77" name="Призыватель дождя" nameimage="BossName_Rainmaker.png" portrait="Portrait_902.0_Rainmaker.png" pivotX="84" pivotY="144" />
+	<boss id="78" name="Лико" nameimage="BossName_Visage.png" portrait="Portrait_903.0_Visage.png" pivotX="84" pivotY="144" />
+	<boss id="79" name="Сирена" nameimage="BossName_Siren.png" portrait="Portrait_904.0_Siren.png" pivotX="84" pivotY="144" />
+	<boss id="80" name="Туфовые близнецы" nameimage="BossName_TuffTwins.png" portrait="Portrait_19.100_TuffTwins.png" pivotX="96" pivotY="160" />
+	<boss id="81" name="Еретик" nameimage="BossName_Heretic.png" portrait="Portrait_905.0_Heretic.png" pivotX="84" pivotY="144" />
+	<boss id="82" name="Роговик" nameimage="BossName_Hornfel.png" portrait="Portrait_906.0_Hornfel.png" pivotX="72" pivotY="144" />
+	<boss id="83" name="Великий Гедион" nameimage="BossName_Gideon.png" portrait="Portrait_907.0_Gideon.png" pivotX="84" pivotY="144" />
+	<boss id="84" name="Сливовая малышка" nameimage="BossName_BabyPlum.png" portrait="Portrait_908.0_BabyPlum.png" pivotX="84" pivotY="144" />
+	<boss id="85" name="Плеть" nameimage="BossName_Scourge.png" portrait="Portrait_909.0_Scourge.png" pivotX="84" pivotY="144" />
+	<boss id="86" name="Химера" nameimage="BossName_Chimera.png" portrait="Portrait_910.0_Chimera.png" pivotX="84" pivotY="144" />
+	<boss id="87" name="Гнилая Пасть" nameimage="BossName_Rotgut.png" portrait="Portrait_911.0_Rotgut.png" pivotX="84" pivotY="144" />
+	<boss id="88" name="Матерь" nameimage="BossName_Mother.png" portrait="Portrait_Mother.png" pivotX="84" pivotY="144" />
+	<boss id="89" name="Мама (Мавзолей)" nameimage="BossName_45.0_Mom.png" portrait="Portrait_45.0_Mom.png" pivotX="82" pivotY="172" />
+	<boss id="90" name="Сердце мамы (Мавзолей)" nameimage="BossName_78.0_MomsHeart.png" portrait="Portrait_78.0_MomsHeart.png" pivotX="88" pivotY="172" />
+	<boss id="91" name="Мин-мин" nameimage="BossName_MinMin.png" portrait="Portrait_MinMin.png" pivotX="84" pivotY="144" />
+	<boss id="92" name="Засор" nameimage="BossName_Clog.png" portrait="Portrait_Clog.png" pivotX="84" pivotY="144" />
+	<boss id="93" name="Ожог" nameimage="BossName_Singe.png" portrait="Portrait_Singe.png" pivotX="84" pivotY="158" />
+	<boss id="94" name="Бамбино" nameimage="BossName_Bumbino.png" portrait="Portrait_Bumbino.png" pivotX="84" pivotY="144" />
+	<boss id="95" name="Колостомия" nameimage="BossName_Colostomia.png" portrait="Portrait_Colostomia.png" pivotX="84" pivotY="158" />
+	<boss id="96" name="Раковина" nameimage="BossName_Shell.png" portrait="Portrait_Shell.png" pivotX="84" pivotY="158" />
+	<boss id="97" name="Какашечка" nameimage="BossName_Turdlet.png" portrait="Portrait_Turdlet.png" pivotX="84" pivotY="140" />
+	<boss id="98" name="Тряпичный череп" nameimage="BossName_Raglich.png" portrait="Portrait_Raglich.png" pivotX="84" pivotY="158" />
+	<boss id="99" name="Догма" nameimage="BossName_Dogma.png" portrait="Portrait_Dogma.png" pivotX="84" pivotY="172" />
+	<boss id="100" name="Зверь" nameimage="BossName_TheBeast.png" portrait="Portrait_The Beast.png" pivotX="84" pivotY="172" />
+	<boss id="101" name="Рогатый дуэт" nameimage="BossName_HornyBoys.png" portrait="Portrait_HornyBoys.png" pivotX="84" pivotY="172" />
+	<boss id="102" name="Клатч" nameimage="BossName_Clutch.png" portrait="Portrait_Clutch.png" pivotX="84" pivotY="172" />
+	<boss id="103" name="Кадавра" nameimage="BossName_Cadavra.png" portrait="Portrait_Cadavra.png" pivotX="84" pivotY="172" />
+<!-- REPENTANCE END -->
+</bosses>
