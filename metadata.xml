@@ -2,7 +2,24 @@
 <metadata>
     <name>[REP] Russian language</name>
     <directory>russian</directory>
-    <description>Русский язык</description>
-    <version>1.0</version>
-    <visibility>Private</visibility>
+    <id>2497522917</id>
+    <description>Русский язык для дополнения [b]Repentance[/b]. За основу был взят [url=https://steamcommunity.com/sharedfiles/filedetails/?id=950570584]этот[/url] русификатор, изменен и доработан до актуальной версии. Большинство текст для перевода было взято с русскоязычной WIKI по игре
+
+[b]Особенности мода:[/b]
+[olist]
+[*] Переведено огромное количество меню
+[*] Переведены имена боссов (изображения + текст)
+[*] Переведены имена персонажей (изображения + текст)
+[*] Переведены имена и описания всех предметов, карт, пилюль
+[*] Переведены все сообщения [url=https://bindingofisaac.fandom.com/ru/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82_%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B9]автомата предсказаний[/url]
+[*] Переведены все сообщения [url=https://bindingofisaac.fandom.com/ru/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%B0%D1%80%D1%82%D0%B0/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB]карты правил[/url]
+[*] Переведены все проклятия на этажах
+[*] Переведены все названия этажей
+[/olist]
+
+Мод в данный момент все ещё находится на стадии разработки, если вы желаете помочь, есть идея по улучшению или нашли ошибку, сообщите мне об этом в комментариях.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
 </metadata>
