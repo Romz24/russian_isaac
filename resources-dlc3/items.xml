@@ -192,7 +192,7 @@
 	<passive cache="all" description="Радужные слёзы" gfx="Collectibles_191_3DollarBill.png" id="191" name="Трёхдолларовая Банкнота" />
 	<active cache="tearflag tearcolor range" description="Временные самонаводящиеся выстрелы" gfx="Collectibles_192_TelepathyForDummies.png" id="192" maxcharges="2" name="Телепатия для Чайников" tags="book" />
 	<passive cache="damage" description="+Урон и здоровье" gfx="Collectibles_193_Meat.png" hearts="4" id="193" maxhearts="2" name="МЯСО!" />
-	<passive cache="shotspeed" description="+Скорострельность" gfx="Collectibles_194_Magic8Ball.png" id="194" name="Магический Шар 8-ка" />
+	<passive cache="shotspeed" description="+Скорость слезы" gfx="Collectibles_194_Magic8Ball.png" id="194" name="Магический Шар 8-ка" />
 	<passive description="Что тут у нас...?" gfx="Collectibles_195_MomsCoinPurse.png" id="195" name="Мамин Кошелёк" tags="mom" />
 	<passive cache="firedelay" description="Больше слёз" gfx="Collectibles_196_Squeezy.png" id="196" name="Давление" />
 	<passive cache="damage range" description="+Урон и дальность" gfx="Collectibles_197_JesusJuice.png" id="197" name="Сок Иисуса" />
@@ -384,7 +384,7 @@
 	<passive description="Любовь пауков" gfx="Collectibles_377_BurstingSack.png" id="377" name="Разорванный кокон" tags="spider" />
 	<passive description="Ой-ёй..." gfx="Collectibles_378_NumberTwo.png" id="378" name="Номер 2" />
 	<passive description="Широкий выстрел" gfx="Collectibles_379_PupulaDuplex.png" id="379" name="Двойной взгляд" cache="tearflag" />
-	<passive description="Деньги говорят" gfx="Collectibles_380_PayToPlay.png" id="380" name="Плати и ирай" coins="5" />
+	<passive description="Деньги говорят" gfx="Collectibles_380_PayToPlay.png" id="380" name="Плати и играй" coins="5" />
 	<passive achievement="188" description="Ваше будущее сияет ярче" gfx="Collectibles_381_EdensBlessing.png" id="381" name="Благословление Эдема" cache="firedelay" />
 	<active description="Всех их заберём" gfx="Collectibles_382_FriendlyBall.png" id="382" name="Дружелюбный шар" maxcharges="2" />
 	<active description="Удаленная детонация слёз" gfx="Collectibles_383_TearDetonator.png" id="383" name="Слёзный детонатор" maxcharges="450" chargetype="timed" />
@@ -484,9 +484,9 @@
 	<active description="Вы сломали её!" gfx="Collectibles_474_BrokenGlassCannon.png" id="474" name="Разбитая стеклянная пушка" maxcharges="4" initcharge="0" />
 	<active achievement="305" description="Испульзуйте с осторожностью" gfx="Collectibles_475_PlanC.png" id="475" name="План C" maxcharges="0" />
 	<active achievement="296" description="Что может случиться?" gfx="Collectibles_476_D1.png" id="476" name="D1" maxcharges="4" />
-	<active achievement="295" description="Поглащай" gfx="Collectibles_477_Void.png" id="477" name="Пустота" maxcharges="6" />
+	<active achievement="295" description="Поглощай" gfx="Collectibles_477_Void.png" id="477" name="Пустота" maxcharges="6" />
 	<active description="Стоп!" gfx="Collectibles_478_Pause.png" id="478" name="Пауза" maxcharges="2" />
-	<active achievement="318" description="Плавильна брелков!" gfx="Collectibles_479_Smelter.png" id="479" name="Плавильня" maxcharges="6" />
+	<active achievement="318" description="Плавильня брелков!" gfx="Collectibles_479_Smelter.png" id="479" name="Плавильня" maxcharges="6" />
 	<active description="Ещё больше друзей!" gfx="Collectibles_480_Compost.png" id="480" name="Компост" maxcharges="2" />
 	<active description="109" gfx="Collectibles_481_Dataminer.png" id="481" name="Анализатор" maxcharges="4" />
 	<active description="Меняй" gfx="Collectibles_482_Clicker.png" id="482" name="Переключатель" maxcharges="6" />
@@ -524,7 +524,7 @@
 	<active achievement="338" description="Позная силу!" gfx="Collectibles_510_Delirious.png" id="510" name="Бредящий" maxcharges="12" />
 	
 	<!-- Booster Pack #1 -->
-	<familiar achievement="352" description="Она вспыльчва" gfx="Collectibles_511_AngryFly.png" id="511" name="Сердитая муха" tags="fly" />
+	<familiar achievement="352" description="Она вспыльчива" gfx="Collectibles_511_AngryFly.png" id="511" name="Сердитая муха" tags="fly" />
 	<active achievement="349" description="Ничто не сбежит" gfx="Collectibles_512_BlackHole.png" id="512" maxcharges="4" name="Чёрная дыра" />
 	<passive achievement="353" cache="damage" name="Бозо" description="Время вечеринки!" soulhearts="2" id="513" gfx="Collectibles_513_Bozo.png" />
 	<passive achievement="354" name="Сломанный модем" description="Лаг!" id="514" gfx="Collectibles_514_BrokenModem.png" />
@@ -658,7 +658,7 @@
 	
 	<active		id="631"	achievement="440" gfx="Collectibles_631_MeatCleaver.png" name="Мясной тесак" description="Ломтик, но не кубик" maxcharges="2" />
 	<passive	id="632"	gfx="Collectibles_632_EvilCharm.png" name="Злой амулет" description="Ломтик, но не кубик" cache="luck" />
-	<passive	id="633"	gfx="Collectibles_633_Dogma.png" name="Догма" description="Вознесенный" cache="damage flying speed" />
+	<passive	id="633"	gfx="Collectibles_633_Dogma.png" name="Догма" description="Вознесённый" cache="damage flying speed" />
 	<passive	id="634"	achievement="519" gfx="Collectibles_634_Purgatory.png" name="Чистилище" description="Помощь извне" />
 	<active		id="635"	gfx="Collectibles_635_Stitches.png" name="Петелька" description="Примани и переключись" maxcharges="90" cache="familiars" chargetype="timed" passivecache="true" />
 	<active		id="636"	gfx="Collectibles_636_RKey.png" name="Клавиша R" description="Пора начать всё с начала" shopprice="99" devilprice="2" />
@@ -720,36 +720,36 @@
 	<passive	id="692"	achievement="494" gfx="Collectibles_692_SanguineBond.png" name="Кровные узы" description="Он ждёт твоего предложения" persistent="true" cache="damage" />
 	<passive	id="693"	achievement="495" gfx="Collectibles_693_TheSwarm.png" name="Рой" description="Заражать" />
 	<passive	id="694"	achievement="496" gfx="Collectibles_694_Heartbreak.png" name="Горе" description="Вечная печаль" cache="damage" />
-	<passive	id="695"	achievement="452" gfx="Collectibles_695_BloodyGust.png" name="Кровавый порыв" description="Кровавый порыв" cache="speed firedelay color" devilprice="2" />
+	<passive	id="695"	achievement="452" gfx="Collectibles_695_BloodyGust.png" name="Кровавый порыв" description="Пусть твой гнев тебя ускорит" cache="speed firedelay color" devilprice="2" />
 	<passive	id="696"	achievement="499" gfx="Collectibles_696_Salvation.png" name="Спасение" description="Божественная защита" persistent="true" />
 	<familiar	id="697"	achievement="435" gfx="Collectibles_697_VanishingTwin.png" name="Исчезающий близнец" description="Он жаждет мести" />
-	<familiar	id="698"	achievement="502" gfx="Collectibles_698_TwistedPair.png" name="Нечестивая парочка" description="Нечестивая парочка" devilprice="2" />
+	<familiar	id="698"	achievement="502" gfx="Collectibles_698_TwistedPair.png" name="Нечестивая парочка" description="Двойные неприятности!" devilprice="2" />
 	<passive	id="699"	achievement="498" gfx="Collectibles_699_AzazelsRage.png" name="Ярость Азазеля" description="Древняя сила" persistent="true" />
 	<passive	id="700"	achievement="504" gfx="Collectibles_700_EchoChamber.png" name="Эхо-камера" description="Я могу видеть будущее будущее будущее..." />
 	<passive	id="701"	achievement="505" gfx="Collectibles_701_IsaacsTomb.png" name="Гробница Исаака" description="Похороненные воспоминания" />
 	<passive	id="702"	achievement="506" gfx="Collectibles_702_BloodSoul.png" name="Мстительный дух" description="Горячая кровь" />
 	<active		id="703"	achievement="507" gfx="Collectibles_703_EsauJr.png" name="Исав Младший" description="Потерянный брат" maxcharges="1" />
 	<active		id="704"	achievement="590" gfx="Collectibles_704_Berserk.png" name="Берсерк!" description="Рви и терзай" maxcharges="100000" chargetype="special" initcharge="50000" cache="all" cooldown="150" persistent="true" />
-	<active		id="705"	achievement="587" gfx="Collectibles_705_DarkArts.png" name="Тёмная сила" description="Единство с тенями" maxcharges="180" chargetype="timed" cooldown="30" cache="speed" />
+	<active		id="705"	achievement="587" gfx="Collectibles_705_DarkArts.png" name="Тёмные искусства" description="Единство с тенями" maxcharges="180" chargetype="timed" cooldown="30" cache="speed" />
 	<active		id="706"	achievement="597" gfx="Collectibles_706_Abyss.png" name="Бездна" description="Выйди из глубин" maxcharges="4" />
 	<passive	id="707"	gfx="Collectibles_707_Supper.png" name="Ужин" description="Больше здоровья" hearts="4" maxhearts="2" />
 	<passive	id="708"	gfx="Collectibles_708_Stapler.png" name="Степлер" description="Больше урона" cache="damage" />
 	<active		id="709"	achievement="437" gfx="Collectibles_709_Suplex.png" name="Суплекс!" description="Сокрушитель ангелов" maxcharges="200" chargetype="timed" />
 	<active		id="710"	achievement="586" gfx="Collectibles_710_BagOfCrafting.png" name="Созидательный мешок" description="Сотвори свою судьбу" hidden="true" />
-	<active		id="711"	achievement="592" gfx="Collectibles_711_Flip.png" name="Щелчок" description="Жизнь и смерть" maxcharges="6" hidden="true" />
+	<active		id="711"	achievement="592" gfx="Collectibles_711_Flip.png" name="Поворот" description="Жизнь и смерть" maxcharges="6" hidden="true" />
 	<active		id="712"	achievement="599" gfx="Collectibles_712_Lemegeton.png" name="Лемегетон" description="Призыватель предметов" maxcharges="6" />
 	<active		id="713"	achievement="589" gfx="Collectibles_713_Sumptorium.png" name="Свищ" description="Возврат" maxcharges="30" chargetype="timed" cooldown="30" hidden="true" />
 	<active		id="714"	gfx="Collectibles_714_Recall.png" name="Отзыв" description="Come back" maxcharges="90" chargetype="timed" cache="flying" cooldown="150" hidden="true" />
-	<active		id="715"	gfx="Collectibles_715_Hold.png" name="Запор" description="Saved for later" maxcharges="0" hidden="true" />
-	<passive	id="716"	achievement="464" gfx="Collectibles_716_KeepersSack.png" name="Мешок хранителя" description="Spending power" cache="damage speed range" />
+	<active		id="715"	gfx="Collectibles_715_Hold.png" name="Придержи" description="Сохранить на потом" maxcharges="0" hidden="true" />
+	<passive	id="716"	achievement="464" gfx="Collectibles_716_KeepersSack.png" name="Мешок хранителя" description="Покупательская способность" cache="damage speed range" />
 	<passive	id="717"	achievement="596" gfx="Collectibles_717_KeepersKin.png" name="Родня Хранителя" description="Прямо под камнем" />
 	
 	<active		id="719"	achievement="465" gfx="Collectibles_719_KeepersBox.png" name="Коробок Хранителя" description="Переносной магазин" maxcharges="4" />
 	<active		id="720"	achievement="459" gfx="Collectibles_720_EverythingJar.png" name="Банка для всего" description="Всё возможно" maxcharges="12" initcharge="1" />
 	<passive	id="721"	achievement="500" gfx="Collectibles_721_TMTRAINER.png" name="ТМТРЕЙНЕР" description="Isaac and his mother lived alone in a small house on a hill" />
-	<active		id="722"	achievement="600" gfx="Collectibles_722_AnimaSola.png" name="Одинокая душа" description="Покайся" maxcharges="450" chargetype="timed" />
+	<active		id="722"	achievement="600" gfx="Collectibles_722_AnimaSola.png" name="Anima Sola" description="Покайся" maxcharges="450" chargetype="timed" />
 	<active		id="723"	achievement="584" gfx="Collectibles_723_SpindownDice.png" name="Кубик с вычетом" description="-1" maxcharges="6" />
-	<passive	id="724"	achievement="585" gfx="Collectibles_724_Hypercoagulation.png" name="Гиперкоагуляция" description="Thick blooded" />
+	<passive	id="724"	achievement="585" gfx="Collectibles_724_Hypercoagulation.png" name="Гиперкоагуляция" description="Густокровный" />
 	<passive	id="725"	achievement="588" gfx="Collectibles_725_IBS.png" name="СРК" description="У тебя урчит в животе" />
 	<passive	id="726"	achievement="591" gfx="Collectibles_726_Hemoptysis.png" name="Кровохарканье" description="Чих двойным нажатием" cooldown="30" />
 	<passive	id="727"	achievement="594" gfx="Collectibles_727_GhostBombs.png" name="Призрачные бомбы" description="Жуткий взрыв +5 бомб" bombs="5" />

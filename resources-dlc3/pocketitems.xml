@@ -32,7 +32,7 @@
 	<card type="suit" pickup="2" achievement="329" description="Преобразуй" id="30" name="Туз червей" announcer="450" announcerdelay="90" mimiccharge="6" />
 	<card type="suit" pickup="2" description="???" id="31" name="Джокер" greedmode="false" announcer="347" announcerdelay="60" mimiccharge="2" />
 	<rune type="rune" pickup="3" achievement="89" description="Разруха" id="32" name="Град" announcer="341" mimiccharge="2" />
-	<rune type="rune" pickup="3" achievement="90" description="Изобилие" id="33" name="Год, урожай" announcer="346" mimiccharge="12" />
+	<rune type="rune" pickup="3" achievement="90" description="Изобилие" id="33" name="Урожай" announcer="346" mimiccharge="12" />
 	<rune type="rune" pickup="3" achievement="91" description="Скачок" id="34" name="Лошадь" announcer="338" mimiccharge="4" />
 	<rune type="rune" pickup="3" achievement="92" description="Чистота" id="35" name="День" announcer="336" mimiccharge="6" />
 	<rune type="rune" pickup="4" achievement="93" description="Видение" id="36" name="Бог" announcer="327" mimiccharge="2" />
@@ -61,48 +61,48 @@
 	<card type="tarot_reverse" pickup="14" achievement="524" announcer="512" announcerdelay="60" description="Отпусти и двигайся дальше" id="56" name="0 - Дурак?" mimiccharge="12" />
 	<card type="tarot_reverse" pickup="14" achievement="525" announcer="513" announcerdelay="0" description="Пусть тебе не причинят вреда" id="57" name="I - Маг?" mimiccharge="4" />
 	<card type="tarot_reverse" pickup="14" achievement="526" announcer="514" announcerdelay="110" description="Беги" id="58" name="II - Верховная жрица?" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="527" announcer="515" announcerdelay="70" description="Пусть ваша любовь принесет защиту" id="59" name="III - Императрица?" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="528" announcer="516" announcerdelay="30" description="Желаю тебе найти достойного соперника" id="60" name="IV - Император?" mimiccharge="2" />
-	<card type="tarot_reverse" pickup="14" achievement="529" announcer="517" announcerdelay="70" description="Две молитвы за забытое" id="61" name="V - Иерофант?" mimiccharge="12" />
-	<card type="tarot_reverse" pickup="14" achievement="530" announcer="518" announcerdelay="60" description="Пусть твое сердце разобьется на части" id="62" name="VI - Влюблённые?" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="531" announcer="519" announcerdelay="0" description="Пусть ничто не пройдет мимо тебя" id="63" name="VII - Колесница?" mimiccharge="2" />
+	<card type="tarot_reverse" pickup="14" achievement="527" announcer="515" announcerdelay="70" description="Пусть твоя любовь защитит" id="59" name="III - Императрица?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="528" announcer="516" announcerdelay="30" description="Пусть ты найдёшь достойного соперника" id="60" name="IV - Император?" mimiccharge="2" />
+	<card type="tarot_reverse" pickup="14" achievement="529" announcer="517" announcerdelay="70" description="Две молитвы за Забытого" id="61" name="V - Иерофант?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="530" announcer="518" announcerdelay="60" description="Пусть твоё сердце разобьётся на куски" id="62" name="VI - Влюблённые?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="531" announcer="519" announcerdelay="0" description="Пусть ничто не пройдёт мимо тебя" id="63" name="VII - Колесница?" mimiccharge="2" />
 	<card type="tarot_reverse" pickup="14" achievement="532" announcer="520" announcerdelay="0" description="Пусть твои грехи вернутся, чтобы мучить тебя" id="64" name="VIII - Правосудие?" mimiccharge="12" />
-	<card type="tarot_reverse" pickup="14" achievement="533" announcer="521" announcerdelay="60" description="Можете ничего не тратить впустую" id="65" name="IX - Отшельник?" mimiccharge="1" />
+	<card type="tarot_reverse" pickup="14" achievement="533" announcer="521" announcerdelay="60" description="Пусть вы увидите ценность всех вещей в жизни" id="65" name="IX - Отшельник?" mimiccharge="1" />
 	<card type="tarot_reverse" pickup="14" achievement="534" announcer="522" announcerdelay="60" description="Бросьте кости судьбы" id="66" name="X - Колесо фортуны?" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="535" announcer="523" announcerdelay="0" description="Пусть их ярость будет приручена" id="67" name="XI - Сила?" mimiccharge="3" />
-	<card type="tarot_reverse" pickup="14" achievement="536" announcer="524" announcerdelay="0" description="Пусть твоя жадность не знает границ" id="68" name="XII - Повешенный?" mimiccharge="6" />
-	<card type="tarot_reverse" pickup="14" achievement="537" announcer="525" announcerdelay="0" description="Пусть жизнь прорастет из падших" id="69" name="XIII - Смерть?" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="538" announcer="526" announcerdelay="120" description="Пусть твой голод утолится" id="70" name="XIV - Умеренность?" mimiccharge="6" />
+	<card type="tarot_reverse" pickup="14" achievement="535" announcer="523" announcerdelay="0" description="Пусть вы сломаете их решимость" id="67" name="XI - Сила?" mimiccharge="3" />
+	<card type="tarot_reverse" pickup="14" achievement="536" announcer="524" announcerdelay="0" description="Пусть ваша жадность не знает границ" id="68" name="XII - Повешенный?" mimiccharge="6" />
+	<card type="tarot_reverse" pickup="14" achievement="537" announcer="525" announcerdelay="0" description="Пусть жизнь прорастёт из падших" id="69" name="XIII - Смерть?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="538" announcer="526" announcerdelay="120" description="Пусть ваш голод утолится" id="70" name="XIV - Умеренность?" mimiccharge="6" />
 	<card type="tarot_reverse" pickup="14" achievement="539" announcer="527" announcerdelay="70" description="Грейтесь в свете вашей милости" id="71" name="XV - Дьявол?" mimiccharge="4" />
 	<card type="tarot_reverse" pickup="14" achievement="540" announcer="528" announcerdelay="110" description="Творение приносит разрушение" id="72" name="XVI - Башня?" mimiccharge="3" />
-	<card type="tarot_reverse" pickup="14" achievement="541" announcer="529" announcerdelay="0" description="Пусть твоя потеря принесет удачу" id="73" name="XVII - Звёзды?" mimiccharge="12" />
-	<card type="tarot_reverse" pickup="14" achievement="542" announcer="530" announcerdelay="0" description="Пусть вы вспомните утраченные воспоминания" id="74" name="XVIII - Луна?" mimiccharge="2" />
-	<card type="tarot_reverse" pickup="14" achievement="542" announcer="531" announcerdelay="0" description="Пусть тьма поглотит все вокруг тебя" id="75" name="XIX - Солнце?" mimiccharge="6" />
-	<card type="tarot_reverse" pickup="14" achievement="543" announcer="532" announcerdelay="30" description="Пусть вы искупите тех, кого нашли желающими" id="76" name="XX - Cуд?" mimiccharge="12" />
-	<card type="tarot_reverse" pickup="14" achievement="544" announcer="533" announcerdelay="30" description="Шагнуть в бездну" id="77" name="XXI - Мир?" mimiccharge="2" />
+	<card type="tarot_reverse" pickup="14" achievement="541" announcer="529" announcerdelay="0" description="Пусть ваша потеря принесёт удачу" id="73" name="XVII - Звёзды?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="542" announcer="530" announcerdelay="0" description="Пусть вы вспомните потерянные воспоминания" id="74" name="XVIII - Луна?" mimiccharge="2" />
+	<card type="tarot_reverse" pickup="14" achievement="542" announcer="531" announcerdelay="0" description="Пусть тьма поглотит всё вокруг тебя" id="75" name="XIX - Солнце?" mimiccharge="6" />
+	<card type="tarot_reverse" pickup="14" achievement="543" announcer="532" announcerdelay="30" description="Пусть вы избавитесь от того, что нашли ненужным" id="76" name="XX - Cуд?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="544" announcer="533" announcerdelay="30" description="Шагни в бездну" id="77" name="XXI - Мир?" mimiccharge="2" />
 	
 	<!-- Misc cards -->
 	<card type="object"  announcer="740" announcerdelay="60" pickup="15" achievement="415" description="???" name="Треснувший ключ" id="78" mimiccharge="4" />
 	<card type="suit"    announcer="741" announcerdelay="80" pickup="2" achievement="602" description="<3" id="79" name="Дама червей" mimiccharge="12" />
-	<card type="special" announcer="742" announcerdelay="70" pickup="17" achievement="610" description="Ещё раз" id="80" name="Шальная карта" mimiccharge="6" />
+	<card type="special" announcer="742" announcerdelay="70" pickup="17" achievement="610" description="Снова" id="80" name="Шальная карта" mimiccharge="6" />
 	
 	<!-- Soul stones -->
 	<card type="rune" pickup="18" achievement="618" announcer="743" description="Реролл... или нет" id="81" name="Душа Исаака" mimiccharge="4" />
 	<card type="rune" pickup="19" achievement="619" announcer="744" description="Дай мне свою любовь!" id="82" name="Душа Магдалины" mimiccharge="3" />
-	<card type="rune" pickup="20" achievement="620" announcer="745" description="Открывает неоткрытое" id="83" name="Душа Каина" mimiccharge="2" />
+	<card type="rune" pickup="20" achievement="620" announcer="745" description="Открывает неоткрываемое" id="83" name="Душа Каина" mimiccharge="2" />
 	<card type="rune" pickup="21" achievement="621" announcer="746" description="Прямо за тобой" id="84" name="Душа Иуды" mimiccharge="3" />
 	<card type="rune" pickup="22" achievement="622" announcer="747" announcerdelay="110" description="Химическая война" id="85" name="Душа ???" mimiccharge="3" />
-	<card type="rune" pickup="23" achievement="623" announcer="748" description="Ваше собственное убийство" id="86" name="Душа Эвы" mimiccharge="4" />
-	<card type="rune" pickup="24" achievement="624" announcer="749" description="Убей тысячу" id="87" name="Душа Самсона" mimiccharge="6" />
+	<card type="rune" pickup="23" achievement="623" announcer="748" description="Твоё собственное убийство" id="86" name="Душа Евы" mimiccharge="4" />
+	<card type="rune" pickup="24" achievement="624" announcer="749" description="Срази тысячу" id="87" name="Душа Самсона" mimiccharge="6" />
 	<card type="rune" pickup="25" achievement="625" announcer="750" description="Демоническая ярость!" id="88" name="Душа Азазеля" mimiccharge="6" />
 	<card type="rune" pickup="26" achievement="626" announcer="751" announcerdelay="60" description="Жизнь после смерти" id="89" name="Душа Лазаря" mimiccharge="1" />
-	<card type="rune" pickup="27" achievement="627" announcer="752" description="Примите хаос" id="90" name="Душа Эдема" mimiccharge="4" />
-	<card type="rune" pickup="28" achievement="628" announcer="753" announcerdelay="60" description="Оставь свое тело позади" id="91" name="Душа Потерянного" mimiccharge="3" />
+	<card type="rune" pickup="27" achievement="627" announcer="752" description="Прими хаос" id="90" name="Душа Эдема" mimiccharge="4" />
+	<card type="rune" pickup="28" achievement="628" announcer="753" announcerdelay="60" description="Оставь своё тело позади" id="91" name="Душа Потерянного" mimiccharge="3" />
 	<card type="rune" pickup="29" achievement="629" announcer="754" announcerdelay="30" description="Материнство" id="92" name="Душа Лилит" mimiccharge="12" />
 	<card type="rune" pickup="30" achievement="630" announcer="755" description="$$$" id="93" name="Душа Хранителя" mimiccharge="12" />
 	<card type="rune" pickup="31" achievement="631" announcer="756" description="Несущий бедствие" id="94" name="Душа Аполлиона" mimiccharge="6" />
-	<card type="rune" pickup="32" achievement="632" announcer="757" description="Защитник скелета" id="95" name="Душа Забытого" mimiccharge="4" />
-	<card type="rune" pickup="33" achievement="633" announcer="758" description="Друзья из-за пределов" id="96" name="Душа Вифании" mimiccharge="6" />
+	<card type="rune" pickup="32" achievement="632" announcer="757" description="Скелетный защитник" id="95" name="Душа Забытого" mimiccharge="4" />
+	<card type="rune" pickup="33" achievement="633" announcer="758" description="Друзья извне" id="96" name="Душа Вифании" mimiccharge="6" />
 	<card type="rune" pickup="34" achievement="634" announcer="759" description="Связанные кровью" id="97" name="Душа Иакова и Исава" mimiccharge="4" />
 	
 	<!--
