@@ -746,8 +746,8 @@
 	
 	<active		id="719"	achievement="465" gfx="Collectibles_719_KeepersBox.png" name="Коробок Хранителя" description="Переносной магазин" maxcharges="4" />
 	<active		id="720"	achievement="459" gfx="Collectibles_720_EverythingJar.png" name="Банка для всего" description="Всё возможно" maxcharges="12" initcharge="1" />
-	<passive	id="721"	achievement="500" gfx="Collectibles_721_TMTRAINER.png" name="ТМТРЕЙНЕР" description="Isaac and his mother lived alone in a small house on a hill" />
-	<active		id="722"	achievement="600" gfx="Collectibles_722_AnimaSola.png" name="Anima Sola" description="Покайся" maxcharges="450" chargetype="timed" />
+	<passive	id="721"	achievement="500" gfx="Collectibles_721_TMTRAINER.png" name="ТМТРЕЙНЕР" description="Исаак и его мать жили одни в небольшом домике на холме." />
+	<active		id="722"	achievement="600" gfx="Collectibles_722_AnimaSola.png" name="Одинокая душа" description="Покайся" maxcharges="450" chargetype="timed" />
 	<active		id="723"	achievement="584" gfx="Collectibles_723_SpindownDice.png" name="Кубик с вычетом" description="-1" maxcharges="6" />
 	<passive	id="724"	achievement="585" gfx="Collectibles_724_Hypercoagulation.png" name="Гиперкоагуляция" description="Густокровный" />
 	<passive	id="725"	achievement="588" gfx="Collectibles_725_IBS.png" name="СРК" description="У тебя урчит в животе" />
