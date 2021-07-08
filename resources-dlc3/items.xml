@@ -1,21 +1,21 @@
 <items gfxroot="gfx/items/" version="1">
 	<passive cache="firedelay" description="Больше слёз" gfx="Collectibles_001_TheSadOnion.png" id="1" name="Грустный лук" />
-	<passive cache="firedelay damage" description="Тройной выстрел" gfx="Collectibles_002_TheInnerEye.png" id="2" name="Внутренний Глаз" />
-	<passive cache="speed tearcolor tearflag" description="Самонаводящиеся выстрелы" gfx="Collectibles_003_SpoonBender.png" id="3" name="Сгибатель Ложек" />
-	<passive cache="damage shotspeed" description="+Урон" gfx="Collectibles_004_CricketsHead.png" id="4" name="Голова Крикета" tags="dead" />
-	<passive cache="tearflag shotspeed range" description="Возвращающиеся слёзы" gfx="Collectibles_005_MyReflection.png" id="5" name="Моё Отражение" />
-	<passive cache="firedelay range tearcolor" description="Больше слёз" gfx="Collectibles_006_NumberOne.png" id="6" name="Номер Один" />
-	<passive cache="damage" description="+Урон" gfx="Collectibles_007_BloodOfTheMartyr.png" id="7" name="Кровь Мученика" />
+	<passive cache="firedelay damage" description="Тройной выстрел" gfx="Collectibles_002_TheInnerEye.png" id="2" name="Внутренний глаз" />
+	<passive cache="speed tearcolor tearflag" description="Самонаводящиеся выстрелы" gfx="Collectibles_003_SpoonBender.png" id="3" name="Сгибатель ложек" />
+	<passive cache="damage shotspeed" description="Больше урона" gfx="Collectibles_004_CricketsHead.png" id="4" name="Голова Крикета" tags="dead" />
+	<passive cache="tearflag shotspeed range" description="Возвращающиеся слёзы" gfx="Collectibles_005_MyReflection.png" id="5" name="Моё отражение" />
+	<passive cache="firedelay range tearcolor" description="Больше слёз" gfx="Collectibles_006_NumberOne.png" id="6" name="Номер один" />
+	<passive cache="damage" description="Больше урона" gfx="Collectibles_007_BloodOfTheMartyr.png" id="7" name="Кровь мученика" />
 	<familiar description="Друзья до гроба" gfx="Collectibles_008_BrotherBobby.png" id="8" name="Братик Бобби" tags="baby" />
 	<passive description="Любовь мух" gfx="Collectibles_009_Skatole.png" id="9" name="Скатол" tags="fly poop" />
 	<familiar description="Защита от выстрелов" gfx="Collectibles_010_HaloOfFlies.png" id="10" name="Мушиный нимб" tags="fly" />
 	<familiar description="Экстра жизнь" gfx="Collectibles_011_1Up.png" id="11" name="1up!" tags="mushroom" />
 	<passive cache="damage range speed size" description="+ Ко всем характеристикам!" gfx="Collectibles_012_MagicMushroom.png" hearts="100" id="12" maxhearts="2" name="Магический Гриб" tags="mushroom" />
 	<passive cache="speed color" description="Ядовитое прикосновение" gfx="Collectibles_013_TheVirus.png" id="13" name="Вирус" tags="syringe" />
-	<passive cache="range speed" description="+Скорость и дальность" gfx="Collectibles_014_RoidRage.png" id="14" name="Стероидная Ярость" tags="syringe" />
+	<passive cache="range speed" description="Больше скорости и дальности" gfx="Collectibles_014_RoidRage.png" id="14" name="Стероидная ярость" tags="syringe" />
 	<passive description="Больше здоровья" gfx="Collectibles_015_Heart.png" hearts="99" id="15" maxhearts="2" name="<3" />
-	<passive description="Больше здоровья" gfx="Collectibles_016_RawLiver.png" hearts="99" id="16" maxhearts="4" name="Сырая Печень" />
-	<passive description="99 Ключей" gfx="Collectibles_017_SkeletonKey.png" id="17" keys="99" name="Костяной Ключ" />
+	<passive description="Больше здоровья" gfx="Collectibles_016_RawLiver.png" hearts="99" id="16" maxhearts="4" name="Сырая печень" />
+	<passive description="99 Ключей" gfx="Collectibles_017_SkeletonKey.png" id="17" keys="99" name="Костяной ключ" />
 	<passive coins="100" description="99 Монет" gfx="Collectibles_018_ADollar.png" id="18" name="Доллар" />
 	<passive bombs="10" description="10 Бомб" gfx="Collectibles_019_Boom.png" id="19" name="Бум!" />
 	<passive achievement="8" cache="flying" description="Они все летают..." gfx="Collectibles_020_Transcendence.png" id="20" name="Трансцендентность" />
@@ -24,182 +24,182 @@
 	<passive description="Больше здоровья" gfx="Collectibles_023_Dinner.png" hearts="4" id="23" maxhearts="2" name="Ужин" />
 	<passive description="Больше здоровья" gfx="Collectibles_024_Dessert.png" hearts="4" id="24" maxhearts="2" name="Десерт" />
 	<passive description="Больше здоровья" gfx="Collectibles_025_Breakfast.png" hearts="4" id="25" maxhearts="2" name="Завтрак" />
-	<passive description="Больше здоровья" gfx="Collectibles_026_RottenMeat.png" hearts="4" id="26" maxhearts="2" name="Гнилое Мясо" />
-	<passive cache="speed" description="Больше скорости" gfx="Collectibles_027_WoodenSpoon.png" id="27" name="Деревянная Ложка" />
+	<passive description="Больше здоровья" gfx="Collectibles_026_RottenMeat.png" hearts="4" id="26" maxhearts="2" name="Гнилое мясо" />
+	<passive cache="speed" description="Больше скорости" gfx="Collectibles_027_WoodenSpoon.png" id="27" name="Деревянная ложка" />
 	<passive cache="speed" description="Больше скорости" gfx="Collectibles_028_TheBelt.png" id="28" name="Ремень" />
-	<passive cache="range" description="Больше дальность" gfx="Collectibles_029_MomsUnderwear.png" id="29" name="Мамино Нижнее Бельё" tags="mom" />
-	<passive cache="range" description="Больше дальность" gfx="Collectibles_030_MomsHeels.png" id="30" name="Мамины Туфли" tags="mom" />
+	<passive cache="range" description="Больше дальность" gfx="Collectibles_029_MomsUnderwear.png" id="29" name="Мамино нижнее бельё" tags="mom" />
+	<passive cache="range" description="Больше дальность" gfx="Collectibles_030_MomsHeels.png" id="30" name="Мамины туфли" tags="mom" />
 	<passive cache="range" description="Больше дальность" gfx="Collectibles_031_MomsLipstick.png" id="31" name="Мамина губная помада" tags="mom" />
-	<passive achievement="139" cache="firedelay" description="Больше слёз" gfx="Collectibles_032_WireCoatHanger.png" id="32" name="Проволочная Вешалка" />
-	<active cache="flying" description="Временный полет" gfx="Collectibles_033_TheBible.png" id="33" maxcharges="4" name="Библия" tags="angel book" />
+	<passive achievement="139" cache="firedelay" description="Больше слёз" gfx="Collectibles_032_WireCoatHanger.png" id="32" name="Проволочная вешалка" />
+	<active cache="flying" description="Временный полёт" gfx="Collectibles_033_TheBible.png" id="33" maxcharges="4" name="Библия" tags="angel book" />
 	<active cache="damage" description="Временная сила" gfx="Collectibles_034_TheBookOfBelial.png" id="34" maxcharges="3" name="Книга Белиала" tags="book" />
 	<active achievement="36" description="Массовый урон" gfx="Collectibles_035_TheNecronomicon.png" id="35" maxcharges="4" name="Некрономикон" tags="book" />
-	<active description="Плюх!" gfx="Collectibles_036_ThePoop.png" id="36" maxcharges="1" name="Кака" tags="poop" />
+	<active description="Плюх!" gfx="Collectibles_036_ThePoop.png" id="36" maxcharges="1" name="Какашка" tags="poop" />
 	<active description="Многоразовый друг-бомба" gfx="Collectibles_037_MrBoom.png" id="37" maxcharges="2" name="Мистер Бум" />
 	<active description="Многоразовый разброс слёз" gfx="Collectibles_038_TammysHead.png" id="38" maxcharges="1" name="Голова Тамми" tags="dead" />
-	<active cooldown="220" description="Массовый ужас" gfx="Collectibles_039_MomsBra.png" id="39" maxcharges="3" name="Мамин Лифчик" tags="mom" />
+	<active cooldown="220" description="Массовый ужас" gfx="Collectibles_039_MomsBra.png" id="39" maxcharges="3" name="Мамин лифчик" tags="mom" />
 	<active cooldown="30" description="Стань бомбой!" gfx="Collectibles_040_Kamikaze.png" id="40" maxcharges="0" name="Камикадзе!" addcostumeonpickup="true" />
-	<active cooldown="450" description="Отвращение..." gfx="Collectibles_041_MomsPad.png" id="41" maxcharges="3" name="Мамина Прокладка" tags="mom" />
-	<active description="Многоразовый выстрел бомбой" gfx="Collectibles_042_BobsRottenHead.png" id="42" maxcharges="2" name="Гнилая Голова Боба" tags="dead bob" />
+	<active cooldown="450" description="Отвращение..." gfx="Collectibles_041_MomsPad.png" id="41" maxcharges="3" name="Мамина прокладка" tags="mom" />
+	<active description="Многоразовый выстрел бомбой" gfx="Collectibles_042_BobsRottenHead.png" id="42" maxcharges="2" name="Гнилая голова Боба" tags="dead bob" />
 	<!-- <active description="" id="43" name="Pills here!" /> -->
 	<active cooldown="30" description="Телепорт!" gfx="Collectibles_044_Teleport.png" id="44" maxcharges="2" name="Телепорт" />
-	<active description="Многоразовая регенерация" gfx="Collectibles_045_YumHeart.png" id="45" maxcharges="4" name="Ням-Сердечко" />
-	<passive cache="luck" description="Больше удачи" gfx="Collectibles_046_LuckyFoot.png" id="46" name="Счастливая Нога" />
-	<active description="Многоразовая атака с воздуха" gfx="Collectibles_047_DoctorsRemote.png" id="47" maxcharges="2" name="ПДУ Доктора" />
-	<passive cache="tearflag" description="Пронзающие выстрелы" gfx="Collectibles_048_CupidsArrow.png" id="48" name="Стрела Купидона" />
+	<active description="Многоразовая регенерация" gfx="Collectibles_045_YumHeart.png" id="45" maxcharges="4" name="Ням-сердечко" />
+	<passive cache="luck" description="Больше удачи" gfx="Collectibles_046_LuckyFoot.png" id="46" name="Счастливая нога" />
+	<active description="Многоразовая атака с воздуха" gfx="Collectibles_047_DoctorsRemote.png" id="47" maxcharges="2" name="ПДУ доктора" />
+	<passive cache="tearflag" description="Пронзающие выстрелы" gfx="Collectibles_048_CupidsArrow.png" id="48" name="Стрела купидона" />
 	<active description="БЛЛЛАРРРРГГГ!" gfx="Collectibles_049_ShoopDaWhoop.png" id="49" maxcharges="2" name="Шуп Да Вуп!" />
-	<passive cache="damage" description="+Урон" gfx="Collectibles_050_Steven.png" id="50" name="Стивен" />
-	<passive cache="damage" description="+Урон" gfx="Collectibles_051_Pentagram.png" id="51" name="Пентаграмма" tags="devil" />
-	<passive achievement="11" cache="all" description="???" gfx="Collectibles_052_DrFetus.png" id="52" name="Доктор Зародыш" special="true" />
-	<passive description="Воришка" gfx="Collectibles_053_Magneto.png" id="53" name="Магнито" />
-	<passive description="Видимая карта" gfx="Collectibles_054_TreasureMap.png" id="54" name="Карта Сокровищ" />
-	<passive description="Глаз на затылке" gfx="Collectibles_055_MomsEye.png" id="55" name="Мамин Глаз" tags="mom" />
-	<active description="Уупс..." gfx="Collectibles_056_LemonMishap.png" id="56" maxcharges="2" name="Лимонная Проблема" />
-	<familiar description="Атакующая муха" gfx="Collectibles_057_DistantAdmiration.png" id="57" name="Сдержанное Восхищение" tags="fly" />
-	<active cooldown="300" description="Временная непобедимость" gfx="Collectibles_058_BookOfShadows.png" id="58" maxcharges="3" name="Книга Теней" tags="book" />
+	<passive cache="damage" description="Больше урона" gfx="Collectibles_050_Steven.png" id="50" name="Стивен" />
+	<passive cache="damage" description="Больше урона" gfx="Collectibles_051_Pentagram.png" id="51" name="Пентаграмма" tags="devil" />
+	<passive achievement="11" cache="all" description="???" gfx="Collectibles_052_DrFetus.png" id="52" name="Доктор зародыш" special="true" />
+	<passive description="Похититель предметов" gfx="Collectibles_053_Magneto.png" id="53" name="Магнито" />
+	<passive description="Полная открытая карта" gfx="Collectibles_054_TreasureMap.png" id="54" name="Карта сокровищ" />
+	<passive description="Глаз у тебя на затылке" gfx="Collectibles_055_MomsEye.png" id="55" name="Мамин глаз" tags="mom" />
+	<active description="Уупс..." gfx="Collectibles_056_LemonMishap.png" id="56" maxcharges="2" name="Лимонная проблема" />
+	<familiar description="Атакующая муха" gfx="Collectibles_057_DistantAdmiration.png" id="57" name="Сдержанное восхищение" tags="fly" />
+	<active cooldown="300" description="Временная неуязвимость" gfx="Collectibles_058_BookOfShadows.png" id="58" maxcharges="3" name="Книга теней" tags="book" />
 	
-	<passive cache="tearflag" description="Прокладывай мосты" gfx="Collectibles_060_TheLadder.png" id="60" name="Лестница" />
+	<passive cache="tearflag" description="Прокладывая мосты" gfx="Collectibles_060_TheLadder.png" id="60" name="Лестница" />
 	<!-- <passive description="" id="61" name="Tarot Card" /> -->
-	<passive description="Убийства лечат" gfx="Collectibles_062_CharmOfTheVampire.png" id="62" name="Вампирское Очарование" cache="damage" />
+	<passive description="Убийства лечат" gfx="Collectibles_062_CharmOfTheVampire.png" id="62" name="Вампирское очарование" cache="damage" />
 	<passive description="Хранит энергию" gfx="Collectibles_063_TheBattery.png" id="63" name="Батарейка" tags="battery" />
-	<passive description="Скидка 50%" gfx="Collectibles_064_SteamSale.png" id="64" name="Стимовская Распродажа" />
-	<active cooldown="35" description="Призывает бомбы" gfx="Collectibles_065_AnarchistCookbook.png" id="65" maxcharges="3" name="Поваренная Книга Анархиста" tags="book" />
-	<active cooldown="240" description="Временное замедление врагов" gfx="Collectibles_066_TheHourglass.png" id="66" maxcharges="2" name="Песочные Часы" />
+	<passive description="Скидка 50%" gfx="Collectibles_064_SteamSale.png" id="64" name="Распродажа в Стиме" />
+	<active cooldown="35" description="Призывает бомбы" gfx="Collectibles_065_AnarchistCookbook.png" id="65" maxcharges="3" name="Поваренная книга анархиста" tags="book" />
+	<active cooldown="240" description="Временное замедление врагов" gfx="Collectibles_066_TheHourglass.png" id="66" maxcharges="2" name="Песочные часы" />
 	<familiar description="Друзья до гроба" gfx="Collectibles_067_SisterMaggy.png" id="67" name="Сестра Мэгги" tags="baby" />
 	<passive cache="all" description="Лазерные слёзы" gfx="Collectibles_068_Technology.png" id="68" name="Технология" />
-	<passive cache="all" description="Накапливаемые выстрелы" gfx="Collectibles_069_ChocolateMilk.png" id="69" name="Шоколадное Молоко" />
-	<passive cache="damage speed" description="+Скорость и урон" gfx="Collectibles_070_GrowthHormones.png" id="70" name="Гормоны Роста" tags="syringe" />
-	<passive cache="speed range size" description="+Скорость и дальность" gfx="Collectibles_071_MiniMushroom.png" id="71" name="Грибочек" tags="mushroom" />
-	<passive description="Повышенная вера" gfx="Collectibles_072_Rosary.png" id="72" name="Чётки" soulhearts="6" cache="firedelay" tags="angel" />
-	<familiar achievement="6" description="Всех их замясим" gfx="Collectibles_073_CubeOfMeat.png" id="73" name="Мясной Кубик" />
+	<passive cache="all" description="Заряжаемые выстрелы" gfx="Collectibles_069_ChocolateMilk.png" id="69" name="Шоколадное молоко" />
+	<passive cache="damage speed" description="Больше скорости и урона" gfx="Collectibles_070_GrowthHormones.png" id="70" name="Гормоны роста" tags="syringe" />
+	<passive cache="speed range size" description="Больше скорости и дальности" gfx="Collectibles_071_MiniMushroom.png" id="71" name="Мини гриб" tags="mushroom" />
+	<passive description="Больше веры" gfx="Collectibles_072_Rosary.png" id="72" name="Чётки" soulhearts="6" cache="firedelay" tags="angel" />
+	<familiar achievement="6" description="Должен замясить их всех" gfx="Collectibles_073_CubeOfMeat.png" id="73" name="Мясной кубик" />
 	<passive achievement="10" coins="25" description="+25 Монет" gfx="Collectibles_074_AQuarter.png" id="74" name="Четвертак" />
-	<passive description="Лучшие пилюли" gfx="Collectibles_075_PHD.png" hearts="4" id="75" name="Лицензия Доктора" />
-	<passive description="Я всё вижу" gfx="Collectibles_076_XrayVision.png" id="76" name="Рентгеновское Зрение" />
-	<active cache="speed" cooldown="180" description="Временный задира" gfx="Collectibles_077_MyLittleUnicorn.png" id="77" maxcharges="4" name="Мой Маленький Единорог" />
-	<active achievement="7" description="Многоразовая защита души" gfx="Collectibles_078_BookOfRevelations.png" id="78" maxcharges="6" name="Книга Откровений" tags="book" />
-	<passive cache="damage speed" description="+Урон" gfx="Collectibles_079_TheMark.png" devilprice="1" id="79" name="Метка" blackhearts="2" tags="devil" />
-	<passive cache="damage firedelay" description="Больше слёз и урона" devilprice="2" gfx="Collectibles_080_ThePact.png" id="80" name="Договор" blackhearts="4" tags="devil" />
-	<familiar description="9 Жизней" gfx="Collectibles_081_DeadCat.png" id="81" name="Мёртвая Кошка" tags="dead guppy" devilprice="2" />
-	<passive cache="flying speed" description="Крылья Демона" devilprice="2" gfx="Collectibles_082_LordOfThePit.png" id="82" name="Повелитель Глубин" />
+	<passive description="Лучше пилюли" gfx="Collectibles_075_PHD.png" hearts="4" id="75" name="Докторская степень" />
+	<passive description="Я вижу всё" gfx="Collectibles_076_XrayVision.png" id="76" name="Рентгеновское зрение" />
+	<active cache="speed" cooldown="180" description="Временный задира" gfx="Collectibles_077_MyLittleUnicorn.png" id="77" maxcharges="4" name="Мой маленький единорог" />
+	<active achievement="7" description="Многократная душевная защита" gfx="Collectibles_078_BookOfRevelations.png" id="78" maxcharges="6" name="Книга откровений" tags="book" />
+	<passive cache="damage speed" description="Больше урона" gfx="Collectibles_079_TheMark.png" devilprice="1" id="79" name="Метка" blackhearts="2" tags="devil" />
+	<passive cache="damage firedelay" description="Больше урона и слёз" devilprice="2" gfx="Collectibles_080_ThePact.png" id="80" name="Договор" blackhearts="4" tags="devil" />
+	<familiar description="9 Жизней" gfx="Collectibles_081_DeadCat.png" id="81" name="Мёртвый кот" tags="dead guppy" devilprice="2" />
+	<passive cache="flying speed" description="Крылья Демона!" devilprice="2" gfx="Collectibles_082_LordOfThePit.png" id="82" name="Повелитель ямы" />
 	<active achievement="9" cache="speed damage" description="Временная демоническая форма" devilprice="2" gfx="Collectibles_083_TheNail.png" id="83" maxcharges="6" name="Гвоздь" tags="devil" />
-	<active description="Многоразовый пропуск уровня" gfx="Collectibles_084_WeNeedToGoDeeper.png" id="84" maxcharges="6" name="Нужно Копать Глубже!" />
-	<active description="Многоразовый генератор карт" gfx="Collectibles_085_DeckOfCards.png" id="85" maxcharges="6" name="Колода Карт" />
+	<active description="Многоразовый пропуск уровня" gfx="Collectibles_084_WeNeedToGoDeeper.png" id="84" maxcharges="6" name="Нам нужно глубже!" />
+	<active description="Многоразовый генератор карт" gfx="Collectibles_085_DeckOfCards.png" id="85" maxcharges="6" name="Колода карт" />
 	<active achievement="13" description="Призывает Монстро" gfx="Collectibles_086_MonstrosTooth.png" id="86" maxcharges="3" name="Зуб Монстро" addcostumeonpickup="true" />
-	<passive achievement="15" description="Выстрел крестом" gfx="Collectibles_087_LokisHorns.png" id="87" name="Рога Локи" />
+	<passive achievement="15" description="Перекрестные слёзы" gfx="Collectibles_087_LokisHorns.png" id="87" name="Рога Локи" />
 	<familiar achievement="14" description="Атакующий приятель" gfx="Collectibles_088_LittleChubby.png" id="88" name="Малыш Чабби" />
-	<passive cache="tearcolor tearflag" description="Эффект замедления" gfx="Collectibles_089_SpidersBite.png" id="89" name="Укус Паука" tags="spider" />
-	<passive achievement="12" cache="tearcolor damage speed firedelay" description="+Урон" gfx="Collectibles_090_SmallRock.png" id="90" name="Маленький Камешек" />
-	<passive description="Видеть сквозь двери" gfx="Collectibles_091_SpelunkerHat.png" id="91" name="Каска Спелеолога" />
-	<passive achievement="19" description=" +2 Сердечка" gfx="Collectibles_092_SuperBandage.png" hearts="4" id="92" maxhearts="2" name="Суперь Пластырь" soulhearts="4" />
-	<active achievement="26" cooldown="200" description="Временный Man-Pac" gfx="Collectibles_093_TheGameKid.png" id="93" maxcharges="4" name="Game Kid" />
-	<familiar achievement="21" description="Выдаёт монеты" gfx="Collectibles_094_SackOfPennies.png" id="94" name="Мешочек с Монетами" />
-	<familiar description="Друзья до ббббзззт" gfx="Collectibles_095_RoboBaby.png" id="95" name="Робо-Малыш" />
-	<familiar achievement="25" description="Выдаёт сердечки" gfx="Collectibles_096_LittleChad.png" id="96" name="Малыш Ч.А.Д." />
-	<active achievement="22" description="Многоразовый генератор предметов" gfx="Collectibles_097_BookOfSin.png" id="97" maxcharges="4" name="Книга Грехов" tags="book" />
+	<passive cache="tearcolor tearflag" description="Эффект замедления" gfx="Collectibles_089_SpidersBite.png" id="89" name="Укус паука" tags="spider" />
+	<passive achievement="12" cache="tearcolor damage speed firedelay" description="Больше урона" gfx="Collectibles_090_SmallRock.png" id="90" name="Маленький Камешек" />
+	<passive description="Видеть сквозь двери" gfx="Collectibles_091_SpelunkerHat.png" id="91" name="Каска спелеолога" />
+	<passive achievement="19" description=" +2 Сердца" gfx="Collectibles_092_SuperBandage.png" hearts="4" id="92" maxhearts="2" name="Суперь пластырь" soulhearts="4" />
+	<active achievement="26" cooldown="200" description="Временный Man-Pac" gfx="Collectibles_093_TheGameKid.png" id="93" maxcharges="4" name="Геймкид" />
+	<familiar achievement="21" description="Выдаёт монеты" gfx="Collectibles_094_SackOfPennies.png" id="94" name="Мешочек с монетами" />
+	<familiar description="Друзья до ббббзззт" gfx="Collectibles_095_RoboBaby.png" id="95" name="Робо-малыш" />
+	<familiar achievement="25" description="Выдаёт поцелуи" gfx="Collectibles_096_LittleChad.png" id="96" name="Маленький Ч.А.Д." />
+	<active achievement="22" description="Многоразовый генератор предметов" gfx="Collectibles_097_BookOfSin.png" id="97" maxcharges="4" name="Книга греха" tags="book" />
 	<familiar achievement="20" description="Генератор душ" gfx="Collectibles_098_TheRelic.png" id="98" name="Реликвия" />
 	<familiar achievement="23" description="Липкий друг" gfx="Collectibles_099_LittleGish.png" id="99" name="Малыш Гиш" />
-	<familiar achievement="24" description="Пси-друг" gfx="Collectibles_100_LittleSteve.png" id="100" name="Малыш Стивен" tags="baby" />
+	<familiar achievement="24" description="Телепатический друг" gfx="Collectibles_100_LittleSteve.png" id="100" name="Малыш Стивен" tags="baby" />
 	<passive achievement="27" cache="damage firedelay range speed" description="+ Ко всем характеристикам" gfx="Collectibles_101_TheHalo.png" hearts="4" id="101" maxhearts="2" name="Нимб" tags="angel" />
-	<active description="Многоразовый генератор пилюль" gfx="Collectibles_102_MomsBottleOfPills.png" id="102" maxcharges="6" name="Мамин Пузырёк с Пилюлями" tags="mom" />
-	<passive cache="tearcolor tearflag" description="Урон ядом" gfx="Collectibles_103_TheCommonCold.png" id="103" name="Простуда" />
-	<passive achievement="31" cache="tearcolor tearflag" description="Раздвоенный выстрел" gfx="Collectibles_104_TheParasite.png" id="104" name="Паразит" />
-	<active achievement="29" description="Измени свою судьбу" gfx="Collectibles_105_Dice.png" id="105" maxcharges="6" name="D6" special="true" />
-	<passive achievement="28" bombs="5" description="+ К радиусу взрыва" gfx="Collectibles_106_MrMega.png" id="106" name="Мистер Мега" />
-    <active cache="familiars" description="Отрежь и беги" gfx="Collectibles_107_PinkingShears.png" id="107" maxcharges="4" name="Фестонные Ножницы" />
+	<active description="Многоразовый генератор пилюль" gfx="Collectibles_102_MomsBottleOfPills.png" id="102" maxcharges="6" name="Мамин пузырёк с пилюлями" tags="mom" />
+	<passive cache="tearcolor tearflag" description="Ядовитый урон" gfx="Collectibles_103_TheCommonCold.png" id="103" name="Простуда" />
+	<passive achievement="31" cache="tearcolor tearflag" description="Разделяющийся выстрел" gfx="Collectibles_104_TheParasite.png" id="104" name="Паразит" />
+	<active achievement="29" description="Переверни свою судьбу" gfx="Collectibles_105_Dice.png" id="105" maxcharges="6" name="D6" special="true" />
+	<passive achievement="28" bombs="5" description="Взрывной урон" gfx="Collectibles_106_MrMega.png" id="106" name="Мистер Мега" />
+    <active cache="familiars" description="Отрежь и беги" gfx="Collectibles_107_PinkingShears.png" id="107" maxcharges="4" name="Фестонные ножницы" />
 	<passive description="Сопротивление урону" gfx="Collectibles_108_TheWafer.png" id="108" name="Облатка" />
 	<passive cache="damage" description="$$$ = Урон" gfx="Collectibles_109_MoneyisPower.png" id="109" name="Деньги = Сила" />
-	<passive achievement="35" cache="tearcolor tearflag range" description="Эффект замедления" gfx="Collectibles_110_MomsContacts.png" id="110" name="Мамины Линзы" tags="mom" />
-	<active description="Залп по команде" gfx="Collectibles_111_TheBean.png" id="111" maxcharges="1" name="Боб" />
+	<passive achievement="35" cache="tearcolor tearflag range" description="Эффект заморозки" gfx="Collectibles_110_MomsContacts.png" id="110" name="Мамины линзы" tags="mom" />
+	<active description="Гудок по команде" gfx="Collectibles_111_TheBean.png" id="111" maxcharges="1" name="Боб" />
 	<familiar achievement="45" description="Экстра защита" gfx="Collectibles_112_GuardianAngel.png" id="112" name="Ангел-хранитель" tags="angel" />
-	<familiar achievement="47" description="Друг авто-турель" gfx="Collectibles_113_DemonBaby.png" id="113" name="Малыш Демон" />
-	<passive achievement="43" cache="all" description="Чик чик чик" devilprice="2" gfx="Collectibles_114_MomsKnife.png" id="114" name="Мамин Нож" special="true" tags="mom" />
-	<passive cache="tearflag tearcolor" description="Спектральные слёы" gfx="Collectibles_115_OuijaBoard.png" id="115" name="Спиритическая доска" />
-	<passive description="Быстрая зарядка" gfx="Collectibles_116_9Volt.png" id="116" name="9 Вольт" tags="battery" />
-	<passive cache="familiars" description="Друг защитник" gfx="Collectibles_117_DeadBird.png" id="117" name="Мёртвая Птичка" />
-	<passive cache="all" description="Кровавая рвота" devilprice="2" gfx="Collectibles_118_Brimstone.png" id="118" name="Сера" special="true" tags="devil" />
-	<passive cache="speed" achievement="147" description="Больше здоровья" gfx="Collectibles_119_BloodBag.png" hearts="10" id="119" maxhearts="2" name="Пакет с Кровью" />
-	<passive cache="damage firedelay speed size" description="+Скорострельность" gfx="Collectibles_120_OddMushroomThin.png" id="120" name="Странный Гриб" tags="mushroom" />
-	<passive cache="damage speed range size" description="+Урон" gfx="Collectibles_121_OddMushroomLarge.png" id="121" hearts="2" maxhearts="2" name="Странный Гриб" tags="mushroom" />
-	<passive cache="damage speed" description="Проклятье" gfx="Collectibles_122_WhoreOFBabylon.png" id="122" name="Вавилонская Блудница" addcostumeonpickup="false" />
-	<active description="Временный генератор приятелей" gfx="Collectibles_123_MonsterManual.png" id="123" maxcharges="6" name="Руководство По Монстрам" tags="book" />
-	<active description="Загадка" gfx="Collectibles_124_DeadSeaScrolls.png" id="124" maxcharges="2" name="Свитки Мёртвого Моря" />
+	<familiar achievement="47" description="Друг авто-турель" gfx="Collectibles_113_DemonBaby.png" id="113" name="Малыш демон" />
+	<passive achievement="43" cache="all" description="Чик чик чик" devilprice="2" gfx="Collectibles_114_MomsKnife.png" id="114" name="Мамин нож" special="true" tags="mom" />
+	<passive cache="tearflag tearcolor" description="Спектральные слёзы" gfx="Collectibles_115_OuijaBoard.png" id="115" name="Спиритическая доска" />
+	<passive description="Ускоренная зарядка" gfx="Collectibles_116_9Volt.png" id="116" name="9 Вольт" tags="battery" />
+	<passive cache="familiars" description="Защитный приятель" gfx="Collectibles_117_DeadBird.png" id="117" name="Мёртвая птичка" />
+	<passive cache="all" description="Поток кровавого лазера" devilprice="2" gfx="Collectibles_118_Brimstone.png" id="118" name="Сера" special="true" tags="devil" />
+	<passive cache="speed" achievement="147" description="Больше здоровья" gfx="Collectibles_119_BloodBag.png" hearts="10" id="119" maxhearts="2" name="Пакет с кровью" />
+	<passive cache="damage firedelay speed size" description="Больше слёз" gfx="Collectibles_120_OddMushroomThin.png" id="120" name="Странный гриб" tags="mushroom" />
+	<passive cache="damage speed range size" description="Больше урона" gfx="Collectibles_121_OddMushroomLarge.png" id="121" hearts="2" maxhearts="2" name="Странный гриб" tags="mushroom" />
+	<passive cache="damage speed" description="Больше проклятия" gfx="Collectibles_122_WhoreOFBabylon.png" id="122" name="Вавилонская блудница" addcostumeonpickup="false" />
+	<active description="Генератор временных приятелей" gfx="Collectibles_123_MonsterManual.png" id="123" maxcharges="6" name="Руководство по монстрам" tags="book" />
+	<active description="Это загадка" gfx="Collectibles_124_DeadSeaScrolls.png" id="124" maxcharges="2" name="Свитки мёртвого моря" />
 	<passive bombs="5" description="Самонаводящиеся бомбы" gfx="Collectibles_125_BobbyBomb.png" id="125" name="Бобби-Бомба" />
-	<active achievement="44" cache="damage" description="Почувствуй мою боль" gfx="Collectibles_126_RazorBlade.png" id="126" maxcharges="0" name="Лезвие Бритвы" />
-	<active achievement="48" description="Я не помню..." gfx="Collectibles_127_ForgetMeNow.png" id="127" maxcharges="0" name="Забудь Меня" />
-	<familiar description="Атакующая муха" gfx="Collectibles_128_ForeverAlone.png" id="128" name="Один Навсегда" tags="fly" />
-	<passive cache="speed" description="Больше здоровья" gfx="Collectibles_129_BucketofLard.png" hearts="4" id="129" maxhearts="4" name="Ведро Сала" />
-	<active cache="flying speed" description="Полёт + рывок" gfx="Collectibles_130_APony.png" id="130" maxcharges="2" name="Пони" passivecache="true" addcostumeonpickup="true" />
-	<familiar achievement="46" description="Выдаёт бомбы" gfx="Collectibles_131_BombBag.png" id="131" name="Мешочек с Бомбами" />
-	<passive cache="damage tearflag tearcolor" description="Мой Рождественский подарок" gfx="Collectibles_132_ALumpOfCoal.png" id="132" name="Кусок Угля" />
-	<active description="Преобразователь души" gfx="Collectibles_133_GuppysPaw.png" id="133" maxcharges="0" name="Лапка Гаппи" tags="guppy" />
+	<active achievement="44" cache="damage" description="Почувствуй мою боль" gfx="Collectibles_126_RazorBlade.png" id="126" maxcharges="0" name="Лезвие бритвы" />
+	<active achievement="48" description="Я не помню..." gfx="Collectibles_127_ForgetMeNow.png" id="127" maxcharges="0" name="Забудь меня" />
+	<familiar description="Атакующая муха" gfx="Collectibles_128_ForeverAlone.png" id="128" name="Один навсегда" tags="fly" />
+	<passive cache="speed" description="Больше здоровья" gfx="Collectibles_129_BucketofLard.png" hearts="4" id="129" maxhearts="4" name="Ведро сала" />
+	<active cache="flying speed" description="Полёт + атака рывком" gfx="Collectibles_130_APony.png" id="130" maxcharges="2" name="Пони" passivecache="true" addcostumeonpickup="true" />
+	<familiar achievement="46" description="Выдаёт бомбы" gfx="Collectibles_131_BombBag.png" id="131" name="Мешочек с бомбами" />
+	<passive cache="damage tearflag tearcolor" description="Мой рождественский подарок" gfx="Collectibles_132_ALumpOfCoal.png" id="132" name="Кусок угля" />
+	<active description="Преобразователь душ" gfx="Collectibles_133_GuppysPaw.png" id="133" maxcharges="0" name="Лапка Гаппи" tags="guppy" />
 	<passive description="Проклят?" gfx="Collectibles_134_GuppysTail.png" id="134" name="Хвост Гаппи" tags="guppy" />
-	<active cooldown="15" description="Сдача крови" gfx="Collectibles_135_IVBag.png" id="135" maxcharges="0" name="Капельница" />
-	<active description="Друзья до гроба" gfx="Collectibles_136_BestFriend.png" id="136" maxcharges="3" name="Лучший Друг" />
-	<active bombs="5" cooldown="2" description="Дистанционный детонатор бомб" gfx="Collectibles_137_RemoteDetonator.png" id="137" maxcharges="0" name="Дистанционный Детонатор" />
-	<passive cache="damage" description="+ К урону и здоровью" gfx="Collectibles_138_Stigmata.png" hearts="4" id="138" maxhearts="2" name="Стигмата" />
-	<passive description="Больше брелков" gfx="Collectibles_139_MomsPurse.png" id="139" name="Мамина Сумочка" tags="mom" />
+	<active cooldown="15" description="Портативный банк крови" gfx="Collectibles_135_IVBag.png" id="135" maxcharges="0" name="Капельница" />
+	<active description="Друзья до гроба" gfx="Collectibles_136_BestFriend.png" id="136" maxcharges="3" name="Лучший друг" />
+	<active bombs="5" cooldown="2" description="Дистаницонная детонация бомб" gfx="Collectibles_137_RemoteDetonator.png" id="137" maxcharges="0" name="Дистанционный детонатор" />
+	<passive cache="damage" description="Больше здоровья + урона" gfx="Collectibles_138_Stigmata.png" hearts="4" id="138" maxhearts="2" name="Стигмата" />
+	<passive description="Больше места для брелков!" gfx="Collectibles_139_MomsPurse.png" id="139" name="Мамина сумочка" tags="mom" />
 	<passive bombs="5" description=" +5 Ядовитых бомб" gfx="Collectibles_140_BobsCurse.png" id="140" name="Проклятие Боба" tags="bob" />
-	<passive description="Великий и неподражаемый" gfx="Collectibles_141_PageantBoy.png" id="141" name="Артистичный Мальчик" />
-	<passive description="Вас благословили" gfx="Collectibles_142_Scapular.png" id="142" name="Наплечники" addcostumeonpickup="false" />
-	<passive cache="speed shotspeed" description="+ К скорость и скорострельность" gfx="Collectibles_143_Speedball.png" id="143" name="Спидбол" tags="syringe" />
-	<familiar description="Он жадный" gfx="Collectibles_144_BumFriend.png" id="144" name="Друг Бездельник" />
-	<active description="Многоразовый генератор мух" gfx="Collectibles_145_GuppysHead.png" id="145" maxcharges="1" name="Голова Гаппи" tags="guppy" />
-	<active description="Вечная жизнь" gfx="Collectibles_146_PrayerCard.png" id="146" maxcharges="6" name="Икона" />
+	<passive description="Невероятно великолепно шикарный" gfx="Collectibles_141_PageantBoy.png" id="141" name="Артистичный мальчик" />
+	<passive description="Вы были благословлены" gfx="Collectibles_142_Scapular.png" id="142" name="Наплечники" addcostumeonpickup="false" />
+	<passive cache="speed shotspeed" description="Больше скорости + скорости полёта слёз" gfx="Collectibles_143_Speedball.png" id="143" name="Спидбол" tags="syringe" />
+	<familiar description="Он жадный!" gfx="Collectibles_144_BumFriend.png" id="144" name="Друг бездельник" />
+	<active description="Многоразовый мушиный улей" gfx="Collectibles_145_GuppysHead.png" id="145" maxcharges="1" name="Голова Гаппи" tags="guppy" />
+	<active description="Многоразовая вечность" gfx="Collectibles_146_PrayerCard.png" id="146" maxcharges="6" name="Молитвенная карточка" />
 	<active description="У камней не осталось и шанса" gfx="Collectibles_147_NotchedAxe.png" id="147" maxcharges="64" chargetype="special" name="ПЕРССОНальная кирка" persistent="1" />
 	<passive description="Они лезут изнутри" gfx="Collectibles_148_Infestation.png" id="148" name="Заражение" tags="fly" />
-	<passive achievement="140" cache="all" description="Взрывные слёзы" gfx="Collectibles_149_Ipecac.png" id="149" name="Рвотный Корень" tags="bob" />
-	<passive description="Выстрел зубом" gfx="Collectibles_150_ToughLove.png" id="150" name="Жёсткая Любовь" />
+	<passive achievement="140" cache="all" description="Взрывные снаряды" gfx="Collectibles_149_Ipecac.png" id="149" name="Рвотный корень" tags="bob" />
+	<passive description="Выстрел зубом" gfx="Collectibles_150_ToughLove.png" id="150" name="Жёсткая любовь" />
 	<passive cache="tearflag" description="Они лезут изнутри" gfx="Collectibles_151_TheMulligan.png" id="151" name="Плакса" tags="fly" />
 	<passive cache="weapon firedelay" description="Лазер" gfx="Collectibles_152_Technology2.png" id="152" name="Технология 2" />
-	<passive cache="firedelay damage" description="Четверной выстрел" gfx="Collectibles_153_MutantSpider.png" id="153" name="Паук Мутант" special="true" tags="spider" />
-	<passive cache="damage" description="+Урон" gfx="Collectibles_154_ChemicalPeel.png" id="154" name="Химический Ожог" />
-	<familiar description="Чпок!" gfx="Collectibles_155_ThePeeper.png" id="155" name="Наблюдатель" />
-	<passive description="Заряжательные мучения" gfx="Collectibles_156_Habit.png" id="156" name="Одеяние" />
-	<passive achievement="54" cache="damage color" description="ЯРОСТЬ!" gfx="Collectibles_157_BloodyLust.png" id="157" name="Жажда Крови" devilprice="2" />
-	<active description="Я вижу будущее" gfx="Collectibles_158_CrystalBall.png" id="158" maxcharges="6" name="Хрустальный Шар" />
-	<passive cache="flying tearflag tearcolor" description="Ужас" devilprice="2" gfx="Collectibles_159_SpiritOfTheNight.png" id="159" name="Дух Ночи" tags="devil" />
-	<active cooldown="30" description="Небесная кара" gfx="Collectibles_160_CrackTheSky.png" id="160" maxcharges="4" name="Раскол небес" />
-	<passive description="Перерождение?" gfx="Collectibles_161_Ankh.png" id="161" name="Анх" />
-	<passive achievement="50" cooldown="200" description="Вас благословили" gfx="Collectibles_162_CelticCross.png" id="162" name="Кельтский Крест" />
-	<familiar description="Спектральный приятель" gfx="Collectibles_163_GhostBaby.png" id="163" name="Малыш Призрак" />
-	<active achievement="59" description="Многоразовый огонь" gfx="Collectibles_164_BlueCandle.png" id="164" maxcharges="110" name="Свеча" chargetype="timed" />
-	<passive cache="shotspeed damage" description="+ К урону и скорострельности" gfx="Collectibles_165_CatONineTails.png" id="165" name="Девятихвостая Плеть" />
-	<active achievement="49" description="Измени основы" gfx="Collectibles_166_D20.png" id="166" maxcharges="6" name="D20" />
-	<familiar description="Косой приятель" gfx="Collectibles_167_HarlequinBaby.png" id="167" name="Малыш Арлекин" tags="baby" />
-	<passive achievement="62" cache="all" description="Атака с воздуха" gfx="Collectibles_168_EpicFetus.png" id="168" name="Эпичный Зародыш" special="true" />
+	<passive cache="firedelay damage" description="Четверной выстрел" gfx="Collectibles_153_MutantSpider.png" id="153" name="Паук мутант" special="true" tags="spider" />
+	<passive cache="damage" description="Больше урона" gfx="Collectibles_154_ChemicalPeel.png" id="154" name="Химический ожог" />
+	<familiar description="Плоп!" gfx="Collectibles_155_ThePeeper.png" id="155" name="Наблюдатель" />
+	<passive description="Мученик предметов" gfx="Collectibles_156_Habit.png" id="156" name="Одеяние" />
+	<passive achievement="54" cache="damage color" description="ЯРОСТЬ!" gfx="Collectibles_157_BloodyLust.png" id="157" name="Жажда крови" devilprice="2" />
+	<active description="Я вижу своё будущее" gfx="Collectibles_158_CrystalBall.png" id="158" maxcharges="6" name="Хрустальный Шар" />
+	<passive cache="flying tearflag tearcolor" description="Страшный" devilprice="2" gfx="Collectibles_159_SpiritOfTheNight.png" id="159" name="Дух ночи" tags="devil" />
+	<active cooldown="30" description="Святая белая смерть" gfx="Collectibles_160_CrackTheSky.png" id="160" maxcharges="4" name="Раскол небес" />
+	<passive description="Вечная жизнь?" gfx="Collectibles_161_Ankh.png" id="161" name="Анх" />
+	<passive achievement="50" cooldown="200" description="Ты чувствуешь благословение" gfx="Collectibles_162_CelticCross.png" id="162" name="Кельтский крест" />
+	<familiar description="Спектральный приятель" gfx="Collectibles_163_GhostBaby.png" id="163" name="Малыш призрак" />
+	<active achievement="59" description="Многоразовое пламя" gfx="Collectibles_164_BlueCandle.png" id="164" maxcharges="110" name="Свеча" chargetype="timed" />
+	<passive cache="shotspeed damage" description="Больше скорости снаряда + урон" gfx="Collectibles_165_CatONineTails.png" id="165" name="Девятихвостая плеть" />
+	<active achievement="49" description="Перебрось начальные" gfx="Collectibles_166_D20.png" id="166" maxcharges="6" name="D20" />
+	<familiar description="Приятель с двойным выстрелом" gfx="Collectibles_167_HarlequinBaby.png" id="167" name="Малыш арлекин" tags="baby" />
+	<passive achievement="62" cache="all" description="Воздушный удар по требованию" gfx="Collectibles_168_EpicFetus.png" id="168" name="Эпичный зародыш" special="true" />
 	<passive cache="damage firedelay tearflag" description="Мега слёзы" gfx="Collectibles_169_Polyphemus.png" id="169" name="Полифем" special="true" />
-	<familiar description="Папина любовь" gfx="Collectibles_170_DaddyLonglegs.png" id="170" name="Папа Сенокосец" />
-	<active cooldown="120" description="Замедление и урон" gfx="Collectibles_171_SpiderButt.png" id="171" maxcharges="2" name="Паучья Жопка" tags="spider" />
-	<familiar achievement="53" description="Моя вера защитит меня" gfx="Collectibles_172_SacrificialDagger.png" id="172" name="Жертвенный Кинжал" />
-	<passive description="Вас благословили" gfx="Collectibles_173_Mitre.png" id="173" name="Митра" tags="angel" />
-	<familiar description="Случайный приятель" gfx="Collectibles_174_RainbowBaby.png" id="174" name="Радужный Малыш" />
-	<active achievement="58" description="Открывает все двери..." gfx="Collectibles_175_DadsKey.png" id="175" maxcharges="2" name="Папин Ключ" />
-	<passive cache="shotspeed" description="Больше здоровья" gfx="Collectibles_176_StemCells.png" hearts="4" id="176" maxhearts="2" name="Стволовые Клетки" />
-	<active cooldown="0" description="Шанс 24/7" gfx="Collectibles_177_PortableSlot.png" id="177" maxcharges="0" name="Персональный Автомат" />
-	<familiar description="Плюх!" gfx="Collectibles_178_HolyWater.png" id="178" name="Святая Вода" />
+	<familiar description="Папина любовь" gfx="Collectibles_170_DaddyLonglegs.png" id="170" name="Папочка длинные ноги" />
+	<active cooldown="120" description="Массовое замедление + урон" gfx="Collectibles_171_SpiderButt.png" id="171" maxcharges="2" name="Паучья задница" tags="spider" />
+	<familiar achievement="53" description="Моя судьба защищает меня" gfx="Collectibles_172_SacrificialDagger.png" id="172" name="Жертвенный кинжал" />
+	<passive description="Благословение чистоты" gfx="Collectibles_173_Mitre.png" id="173" name="Митра" tags="angel" />
+	<familiar description="Случайный приятель" gfx="Collectibles_174_RainbowBaby.png" id="174" name="Радужный малыш" />
+	<active achievement="58" description="Открывает все двери..." gfx="Collectibles_175_DadsKey.png" id="175" maxcharges="2" name="Папин ключ" />
+	<passive cache="shotspeed" description="Больше здоровья" gfx="Collectibles_176_StemCells.png" hearts="4" id="176" maxhearts="2" name="Стволовые клетки" />
+	<active cooldown="0" description="Азарт 24/7" gfx="Collectibles_177_PortableSlot.png" id="177" maxcharges="0" name="Персональный автомат" />
+	<familiar description="Брызг!" gfx="Collectibles_178_HolyWater.png" id="178" name="Святая вода" />
 	<passive achievement="113" cache="flying" description="Вечный полёт" gfx="Collectibles_179_Fate.png" id="179" name="Судьба" />
-	<passive description="Пук за стук" gfx="Collectibles_180_BlackBean.png" id="180" name="Чёрный Боб" />
-	<active cache="flying speed" description="Полёт + небесная кара" gfx="Collectibles_181_WhitePony.png" id="181" maxcharges="2" name="Белый Пони" passivecache="true" addcostumeonpickup="true" />
-	<passive cache="damage firedelay range shotspeed tearcolor tearflag" description="Самонаводящиеся выстрелы + Урон" gfx="Collectibles_182_SacredHeart.png" hearts="99" id="182" maxhearts="2" name="Священное Сердце" special="true" />
-	<passive cache="shotspeed firedelay" description="Больше слёз + скорострельность" gfx="Collectibles_183_ToothPicks.png" id="183" name="Зубочистки" />
-	<passive cache="flying" description="Полёт + Здоровье" gfx="Collectibles_184_HolyGrail.png" hearts="4" id="184" maxhearts="2" name="Святой Грааль" tags="angel" />
-	<passive cache="flying tearflag tearcolor" description="Полёт + спектральные слёзы" gfx="Collectibles_185_DeadDove.png" id="185" name="Мёртвая Голубка" tags="angel" />
-	<active achievement="56" description="Массовый урон" gfx="Collectibles_186_BloodRights.png" id="186" maxcharges="0" name="Право на Кровь" />
-	<familiar achievement="65" description="Покрути им" gfx="Collectibles_187_GuppysHairball.png" id="187" name="Комок Шерсти Гаппи" tags="guppy" />
+	<passive description="Пук за стук" gfx="Collectibles_180_BlackBean.png" id="180" name="Чёрный боб" />
+	<active cache="flying speed" description="Полёт + святая смерть" gfx="Collectibles_181_WhitePony.png" id="181" maxcharges="2" name="Белый пони" passivecache="true" addcostumeonpickup="true" />
+	<passive cache="damage firedelay range shotspeed tearcolor tearflag" description="Самонаводящиеся выстрелы + Больше урона" gfx="Collectibles_182_SacredHeart.png" hearts="99" id="182" maxhearts="2" name="Священное сердце" special="true" />
+	<passive cache="shotspeed firedelay" description="Больше слёз + скорости полёта снаряда" gfx="Collectibles_183_ToothPicks.png" id="183" name="Зубочистки" />
+	<passive cache="flying" description="Полёт + повышение здоровья" gfx="Collectibles_184_HolyGrail.png" hearts="4" id="184" maxhearts="2" name="Святой грааль" tags="angel" />
+	<passive cache="flying tearflag tearcolor" description="Полёт + спектральные слёзы" gfx="Collectibles_185_DeadDove.png" id="185" name="Мёртвая голубка" tags="angel" />
+	<active achievement="56" description="Массовый урон за цену" gfx="Collectibles_186_BloodRights.png" id="186" maxcharges="0" name="Право на кровь" />
+	<familiar achievement="65" description="Покрути им" gfx="Collectibles_187_GuppysHairball.png" id="187" name="Комок шерсти Гаппи" tags="guppy" />
 	<familiar achievement="51" description="Зеркальный приятель" gfx="Collectibles_188_Abel.png" id="188" name="Авель" />
-	<passive achievement="63" cache="firedelay damage speed range" description="+ Ко всем характеристикам" gfx="Collectibles_189_SMBSuperFan.png" hearts="99" id="189" maxhearts="2" name="Супер Фанат SMB" />
+	<passive achievement="63" cache="firedelay damage speed range" description="+ Ко всем характеристикам" gfx="Collectibles_189_SMBSuperFan.png" hearts="99" id="189" maxhearts="2" name="Супер фанат SMB" />
 	<passive bombs="99" description="99 Бомб" gfx="Collectibles_190_Pyro.png" id="190" name="Пиро" />
-	<passive cache="all" description="Радужные слёзы" gfx="Collectibles_191_3DollarBill.png" id="191" name="Трёхдолларовая Банкнота" />
-	<active cache="tearflag tearcolor range" description="Временные самонаводящиеся выстрелы" gfx="Collectibles_192_TelepathyForDummies.png" id="192" maxcharges="2" name="Телепатия для Чайников" tags="book" />
-	<passive cache="damage" description="+Урон и здоровье" gfx="Collectibles_193_Meat.png" hearts="4" id="193" maxhearts="2" name="МЯСО!" />
-	<passive cache="shotspeed" description="+Скорость слезы" gfx="Collectibles_194_Magic8Ball.png" id="194" name="Магический Шар 8-ка" />
-	<passive description="Что тут у нас...?" gfx="Collectibles_195_MomsCoinPurse.png" id="195" name="Мамин Кошелёк" tags="mom" />
+	<passive cache="all" description="Радужные слёзы" gfx="Collectibles_191_3DollarBill.png" id="191" name="Трёхдолларовая банкнота" />
+	<active cache="tearflag tearcolor range" description="Временные самонаводящиеся выстрелы" gfx="Collectibles_192_TelepathyForDummies.png" id="192" maxcharges="2" name="Телепатия для чайников" tags="book" />
+	<passive cache="damage" description="Больше урона + здоровья" gfx="Collectibles_193_Meat.png" hearts="4" id="193" maxhearts="2" name="МЯСО!" />
+	<passive cache="shotspeed" description="+Скорость слезы" gfx="Collectibles_194_Magic8Ball.png" id="194" name="Магический шар 8-ка" />
+	<passive description="Что это такое...?" gfx="Collectibles_195_MomsCoinPurse.png" id="195" name="Мамин кошелёк" tags="mom" />
 	<passive cache="firedelay" description="Больше слёз" gfx="Collectibles_196_Squeezy.png" id="196" name="Давление" />
-	<passive cache="damage range" description="+Урон и дальность" gfx="Collectibles_197_JesusJuice.png" id="197" name="Сок Иисуса" />
+	<passive cache="damage range" description="Больше урона + дальность" gfx="Collectibles_197_JesusJuice.png" id="197" name="Сок Иисуса" />
 	<passive description="Барахло" gfx="Collectibles_198_Box.png" id="198" name="Коробка" />
 	
-	<passive description="Больше драгоценностей +2 ключа" gfx="collectibles_199_momskey.png" id="199" keys="2" name="Мамин Ключ" tags="mom" cache="pickupvision" />
-	<passive cache="tearcolor" description="Чарующие слёзы" gfx="collectibles_200_momseyeshadow.png" id="200" name="Мамины Тени" tags="mom" />
+	<passive description="Лучше содержимое сундуков +2 ключа" gfx="collectibles_199_momskey.png" id="199" keys="2" name="Мамин ключ" tags="mom" cache="pickupvision" />
+	<passive cache="tearcolor" description="Очаровывающие слёзы" gfx="collectibles_200_momseyeshadow.png" id="200" name="Мамины тени" tags="mom" />
 	<passive cache="damage" description="Шокирующие слёзы" gfx="collectibles_201_ironbar.png" id="201" name="Железный Слиток" />
 	<passive description="Золотое прикосновение" gfx="collectibles_202_midastouch.png" id="202" name="Прикосновение Мидаса" />
 	<passive description="1+1 х4ляв4 на века" gfx="collectibles_203_humblingbundle.png" id="203" name="Скромный Набор" />
@@ -597,7 +597,7 @@
 	<familiar	id="569"	gfx="Collectibles_569_BloodOath.png" name="Кровавая клятва" description="Обескровь меня досуха" />
 	<passive	id="570"	gfx="Collectibles_570_PlaydohCookie.png" name="Пластилиновое печенье" description="Вкусная радуга" cache="tearflag" />
 	<passive	id="571"	gfx="Collectibles_571_Socks.png" name="Сиротские носки" description="Ускорение + ваши ноги чувствуют себя сильнее" cache="speed" soulhearts="4" />
-	<passive	id="572"	gfx="Collectibles_572_OccultEye.png" name="Оккультный глаз" description="Больше урона + больше дальность + управляемые слезы" cache="damage range shotspeed tearcolor tearflag" devilprice="2" />
+	<passive	id="572"	gfx="Collectibles_572_OccultEye.png" name="Оккультный глаз" description="Больше урона + больше дальность + управляемые слёзы" cache="damage range shotspeed tearcolor tearflag" devilprice="2" />
 	<passive	id="573"	gfx="Collectibles_573_ImmaculateHeart.png" name="Чистое сердце" description="Ореол слез" maxhearts="2" hearts="99" cache="damage" />
 	<passive	id="574"	gfx="Collectibles_574_Monstrance.png" name="Дароносица" description="Очищающий свет" />
 	<familiar	id="575"	gfx="Collectibles_575_TheIntruder.png" name="Вторженец" description="Агрессивный друг" />
@@ -626,7 +626,7 @@
 	<passive	id="598"	gfx="Collectibles_598_Pluto.png" name="Плутон" description="Уменьшение" cache="range firedelay speed size" />
 	<passive	id="599"	gfx="Collectibles_599_VoodooHead.png" name="Голова вуду" description="Дополнительные проклятые комнаты" />
 	<passive	id="600"	gfx="Collectibles_600_EyeDrops.png" name="Глазные капли" description="Больше слёз" cache="firedelay" />
-	<passive	id="601"	gfx="Collectibles_601_ActOfContrition.png" name="Покаяние" description="Покаяние" cache="firedelay" />
+	<passive	id="601"	gfx="Collectibles_601_ActOfContrition.png" name="Покаяния" description="Больше слёз, ты чувствуешь себя прощённым" cache="firedelay" />
 	<passive	id="602"	achievement="582" gfx="Collectibles_602_MemberCard.png" name="Членская карточка" description="Эксклюзивный доступ!" />
 	<passive	id="603"	gfx="Collectibles_603_BatteryPack.png" name="Запас батареек" description="Мгновенная энергия!" />
 	<active		id="604"	gfx="Collectibles_604_MomsBracelet.png" name="Мамин браслет" description="Сила матери" maxcharges="30" chargetype="timed" />
@@ -654,17 +654,17 @@
 	<familiar	id="626"	gfx="Collectibles_626_KnifePiece1.png" name="Первая часть ножа" description="???" />
 	<familiar	id="627"	gfx="Collectibles_627_KnifePiece2.png" name="Вторая часть ножа" description="???" />
 	<active		id="628"	achievement="636" gfx="Collectibles_628_DeathCertificate.png" name="Свидетельство о смерти" description="Где я?" maxcharges="0" />
-	<familiar	id="629"	gfx="Collectibles_629_BotFly.png" name="Муха-бот" description="Муха-бот" />
+	<familiar	id="629"	gfx="Collectibles_629_BotFly.png" name="Муха-бот" description="Защитный дрон" />
 	
 	<active		id="631"	achievement="440" gfx="Collectibles_631_MeatCleaver.png" name="Мясной тесак" description="Ломтик, но не кубик" maxcharges="2" />
-	<passive	id="632"	gfx="Collectibles_632_EvilCharm.png" name="Злой амулет" description="Ломтик, но не кубик" cache="luck" />
+	<passive	id="632"	gfx="Collectibles_632_EvilCharm.png" name="Зловещий амулет" description="Больше удачи + вы чувствуете себя защищенным" cache="luck" />
 	<passive	id="633"	gfx="Collectibles_633_Dogma.png" name="Догма" description="Вознесённый" cache="damage flying speed" />
 	<passive	id="634"	achievement="519" gfx="Collectibles_634_Purgatory.png" name="Чистилище" description="Помощь извне" />
-	<active		id="635"	gfx="Collectibles_635_Stitches.png" name="Петелька" description="Примани и переключись" maxcharges="90" cache="familiars" chargetype="timed" passivecache="true" />
+	<active		id="635"	gfx="Collectibles_635_Stitches.png" name="Шов" description="Примани и переключись" maxcharges="90" cache="familiars" chargetype="timed" passivecache="true" />
 	<active		id="636"	gfx="Collectibles_636_RKey.png" name="Клавиша R" description="Пора начать всё с начала" shopprice="99" devilprice="2" />
 	<passive	id="637"	gfx="Collectibles_637_KnockoutDrops.png" name="Нокаут" description="Они наносят удар!" />
 	<active		id="638"	gfx="Collectibles_638_Eraser.png" name="Ластик" description="Сотри своего врага" maxcharges="1" chargetype="special" />
-	<active		id="639"	achievement="442" gfx="Collectibles_639_YuckHeart.png" name="Фу-сердце" description="Фу-сердце!" maxcharges="6" />
+	<active		id="639"	achievement="442" gfx="Collectibles_639_YuckHeart.png" name="Фу-сердце" description="Мерзость!" maxcharges="6" />
 	<active		id="640"	achievement="418" gfx="Collectibles_640_UrnOfSouls.png" name="Урна душ" description="Выпусти их печаль" maxcharges="0" persistent="true" />
 	<passive	id="641"	achievement="446" gfx="Collectibles_641_Akeldama.png" name="Акелдама" description="Вывали свои внутренности" />
 	<active		id="642"	achievement="472" gfx="Collectibles_642_MagicSkin.png" name="Магическая кожа" description="Все ваши желания исполнены" maxcharges="6" />
@@ -682,7 +682,7 @@
 	<passive	id="654"	gfx="Collectibles_654_FalsePhd.png" name="Фальшивая докторская степень" description="Гадкие пилюли + больше зла" cache="damage" blackhearts="2" />
 	<active		id="655"	gfx="Collectibles_655_SpinToWin.png" name="Юла" description="Дай ей сорваться!" maxcharges="90" cache="familiars" chargetype="timed" passivecache="true" />
 	<familiar	id="656"	achievement="432" gfx="Collectibles_577_Damocles.png" name="Дамокл" description="Царская судьба... но какой ценой?" devilprice="2" cache="familiars" hidden="true" />
-	<passive	id="657"	gfx="Collectibles_657_Vasculitis.png" name="Васкулит" description="Васкулит" />
+	<passive	id="657"	gfx="Collectibles_657_Vasculitis.png" name="Васкулит" description="Закупоренные враги" />
 	<passive	id="658"	gfx="Collectibles_658_GiantCell.png" name="Огромная клетка" description="Микро-друзья" />
 	<passive	id="659"	gfx="Collectibles_659_Tropicamide.png" name="Тропикамид" description="Укрупнение слёз + увеличение дальности" cache="range" />
 	<passive	id="660"	gfx="Collectibles_660_CardReading.png" name="Гадание на картах" description="Связь с твоим будущим" />
