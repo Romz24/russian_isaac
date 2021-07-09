@@ -544,7 +544,7 @@
 	
 	<!-- Booster Pack #3 -->
 	<familiar achievement="372" description="Малютки предвестники!" gfx="Collectibles_526_7Seals.png" name="7 печатей" devilprice="1" id="526"/>
-	<active achievement="371" description="МАгууу!" gfx="Collectibles_527_Mr_Me.png" maxcharges="4" name="Мистер ЙА!" id="527" />
+	<active achievement="371" description="Могууу сделать!" gfx="Collectibles_527_Mr_Me.png" maxcharges="4" name="Мистер Ми!" id="527" />
 	<familiar achievement="373" description="Лунное затмение" gfx="collectibles_528_angelic prism.png" name="Ангельская призма" id="528" />
 	<passive achievement="374" cache="tearflag" description="Слёзы-глаза!" gfx="Collectibles_529_Pop.png" name="Хлоп!" id="529" />
 	
