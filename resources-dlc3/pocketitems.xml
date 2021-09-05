@@ -46,7 +46,7 @@
 	<card type="special" pickup="2" achievement="99" description="???" id="44" name="Карта правил" announcer="361" announcerdelay="30" mimiccharge="1" />
 	<card type="special" pickup="9" achievement="100" description="Чем-то пахнет..." id="45" name="Карта против человечества" announcer="333" announcerdelay="60" mimiccharge="6" />
 	<card type="special" pickup="2" achievement="120" description="Истинный конец?" id="46" name="Король-Самоубийцы" announcer="366" announcerdelay="110" mimiccharge="1" />
-	<card type="special" pickup="12" achievement="225" description="Сезам, откройся" id="47" name="Карта свободного выхода из тюрьмы" announcer="404" announcerdelay="30" mimiccharge="2" />
+	<card type="special" pickup="12" achievement="225" description="Сезам, откройся" id="47" name="Карта выхода из тюрьмы" announcer="404" announcerdelay="30" mimiccharge="2" />
 	<card type="special" pickup="2" description="Двойное Действие" id="48" name="? карта" announcer="408" announcerdelay="15" mimiccharge="1" />
 	<card type="object" pickup="6" description="D6 + D20" id="49" name="Осколок кости" announcer="400" announcerdelay="3" mimiccharge="4" />
 	<card type="object" pickup="5" description="Спасение с небес" id="50" name="Экстренный контакт" announcer="401" announcerdelay="70" mimiccharge="3" />
